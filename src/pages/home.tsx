@@ -80,12 +80,8 @@ export default function HomePage() {
         poster="https://www.elsewhere.io/webflow/videos/hero-home-poster-00001.jpg"
       >
         <source
-          src="https://www.elsewhere.io/webflow/videos/hero-home-transcode.mp4"
+          src="https://pub-a0aabe76194e4aa8aea91afd2093a9e5.r2.dev/hero-home-transcode.mp4"
           type="video/mp4"
-        />
-        <source
-          src="https://www.elsewhere.io/webflow/videos/hero-home-transcode.webm"
-          type="video/webm"
         />
       </video>
 
