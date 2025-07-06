@@ -1,0 +1,888 @@
+{
+  "items": [
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "55.74953124", "lon": "37.61338835" },
+      "esid": "987c75d4-c098-4788-bb98-03a2e77395d9",
+      "excerpt": "The Armoury dates to 1511, when it was founded under Vasily III to manufacture and store weapons, imperial arms and regalia for the royal court. Later it…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "The crown of Tsar Mikhail Fyodorovich in the Armoury in the Kremlin, Moscow. 21/06/2003. (Photo by Jeff Overs/BBC News \u0026 Current Affairs via Getty Images)",
+          "url": "https://lp-cms-production.imgix.net/2019-06/490705545_master.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Moscow" }],
+      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/armoury/a/poi-sig/1473319/1336043",
+      "title": "Armoury"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.941746679317", "lon": "30.315293746976" },
+      "esid": "5da25c91-760e-49b6-b47d-a42b93ae327f",
+      "excerpt": "The Hermitage fully lives up to its sterling reputation. You can be absorbed by its treasures for days and still come out wanting more. The enormous…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Jordan Staircase Of Hermitage Museum",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-562854471_high.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/historic-heart/attractions/state-hermitage-museum/a/poi-sig/1278294/1336038",
+      "title": "State Hermitage Museum"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "55.752465258339", "lon": "37.623109817505" },
+      "esid": "3d30f536-cdcd-4753-a10f-44fb36cce140",
+      "excerpt": "At the southern end of Red Square stands the icon of Russia: St Basil’s Cathedral. This crazy confusion of colours, patterns and shapes is the culmination…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "St. Basil's Cathedral in Red Square, Moscow, Russia",
+          "url": "https://lp-cms-production.imgix.net/2019-06/1a92cca135c161ed7ae94513805d7691-st-basil-s-cathedral.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Moscow" }],
+      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/st-basil-s-cathedral/a/poi-sig/373447/1336043",
+      "title": "St Basil's Cathedral"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.941293", "lon": "30.303898" },
+      "esid": "163461f7-c6fb-4185-8db5-d98806ca9ad4",
+      "excerpt": "Also known as the Museum of Ethnology and Anthropology, this is the city’s first museum, founded in 1714 by Peter himself. It is famous largely for its…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": null,
+          "url": "https://lp-cms-production.imgix.net/2019-06/77b22514178ea0fc2e7a5e88969edeb0-kunstkamera.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/vasilyevsky-island/attractions/kunstkamera/a/poi-sig/374253/1336041",
+      "title": "Kunstkamera"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.928847785943", "lon": "30.297371976267" },
+      "esid": "7dd9b3db-eeb8-495d-8fd1-8ecf0cb65200",
+      "excerpt": "This spectacular palace on the Moyka River has some of the best 19th-century interiors in the city, in addition to a fascinating and gruesome history. The…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Yusupov palace on the Moyka river.\r\n",
+          "url": "https://lp-cms-production.imgix.net/2023-06/iStock-1176374059.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/sennaya-kolomna/attractions/yusupov-palace/a/poi-sig/374443/1336040",
+      "title": "Yusupov Palace"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "55.752997", "lon": "37.619548" },
+      "esid": "6d789d6d-7845-4928-ad7c-740591f60c9a",
+      "excerpt": "The apex of Russian political power and once the centre of the Orthodox Church, the Kremlin is the kernel of not only Moscow, but of the whole country…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Exterior of Water Tower at Kremlin.",
+          "url": "https://lp-cms-production.imgix.net/2019-06/c7345c3a11fd953e8734c78b75810d0d673af699685431da31f53446bad2b3c5.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Moscow" }],
+      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/moscow-kremlin/a/poi-sig/1286803/1336043",
+      "title": "Moscow Kremlin"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "55.753631", "lon": "37.619945" },
+      "esid": "1bbee47a-5bba-47f5-bad3-d1f2af42cb34",
+      "excerpt": "Although Vladimir Ilych requested that he be buried beside his mum in St Petersburg, he still lies in state at the foot of the Kremlin wall, receiving…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Mausoleum on Red Square, Moscow, Russia; Shutterstock ID 64158388; Your name (First / Last): Josh Vogel; Project no. or GL code: 56530; Network activity no. or Cost Centre: Online-Design; Product or Project: 65050/7529/Josh Vogel/LP.com Destination Galleries",
+          "url": "https://lp-cms-production.imgix.net/2019-06/shutterstock_64158388.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Moscow" }],
+      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/lenin-s-mausoleum/a/poi-sig/1279543/1336043",
+      "title": "Lenin's Mausoleum"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.92550351", "lon": "30.29577533" },
+      "esid": "3d2d1706-945b-4d0c-b4ae-7ee10e80ceb2",
+      "excerpt": "The Mariinsky Theatre has played a pivotal role in Russian ballet ever since it was built in 1859 and remains one of Russia's most loved and respected…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Mariinsky theater in Saint Petersburg, Russia.",
+          "url": "https://lp-cms-production.imgix.net/2023-04/shutterstock_1751419403.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/sennaya-kolomna/attractions/mariinsky-theatre/a/poi-sig/1480411/1336040",
+      "title": "Mariinsky Theatre"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.93886885", "lon": "30.33226812" },
+      "esid": "4453813b-1308-44d4-bff4-7bdbd5f47288",
+      "excerpt": "Focusing solely on Russian art, from ancient church icons to 20th-century paintings, the Russian Museum's collection is magnificent and can easily be…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "State Russian Museum....The Russian Museum today is a unique depository of artistic treasures, a leading restoration center, an authoritative institute of academic research, a major educational center and the nucleus of a network of national museums of art...The Russian Museum collection contains more than 400.000 exhibits. The main complex of museum buildings - the Mikhailovsky Palace and Benois Wing - houses the permanent exhibition of the Russian Museum, tracing the entire history of Russian art from the tenth to the twentieth centuries. The museum collection embraces all forms, genres, schools and movements of art.....www.rusmuseum.ru/eng",
+          "url": "https://lp-cms-production.imgix.net/2019-06/26622599.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/historic-heart/attractions/russian-museum/a/poi-sig/1278305/1336038",
+      "title": "Russian Museum"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "55.753259156405", "lon": "37.62190757253" },
+      "esid": "533a8eec-8a37-401c-b7d3-d1dff7554f93",
+      "excerpt": "Immediately outside the Kremlin’s northeastern wall is the celebrated Red Square, the 400m-by-150m area of cobblestones that is at the very heart of…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Moscow's Red Square",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-498208877_high.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Moscow" }],
+      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/red-square/a/poi-sig/1286797/1336043",
+      "title": "Red Square"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "58.19889517", "lon": "68.25389758" },
+      "esid": "26251439-ad88-4010-a455-3cc48e563e88",
+      "excerpt": "The centrepiece of the tower-studded, white-walled, 18th-century kremlin is the glorious 1686 St Sofia Cathedral. Less eye-catching from the outside, but…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Tobolsk Kremlin and the Sophia-Assumption Cathedral, built in 1689. ",
+          "url": "https://lp-cms-production.imgix.net/2023-06/iStock-1434073602.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Western Siberia" }],
+      "slug": "russia/siberia/tobolsk/attractions/kremlin/a/poi-sig/1474804/360543",
+      "title": "Kremlin"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.929522", "lon": "30.289167" },
+      "esid": "390642cc-24d3-4b27-9df2-bcc556eca1e6",
+      "excerpt": "This triangular island was closed for the most part of the last three centuries, and has opened to the public in dazzling fashion. There's plenty going on…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "The pond on New Holland island in St Petersburg.",
+          "url": "https://lp-cms-production.imgix.net/2019-06/3fe44019029da46994bad48147e02b61-lpl-03619.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/sennaya-kolomna/attractions/new-holland/a/poi-sig/1473804/1336040",
+      "title": "New Holland"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.932243", "lon": "30.251434" },
+      "esid": "bb807b11-01ca-41c3-9241-dba9ca814b6a",
+      "excerpt": "Erarta's superb hoard of 2800 pieces of Russian contemporary art trumps its somewhat far-flung location. Housed in an ingeniously converted neoclassical…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Erarta, Museum of modern art.",
+          "url": "https://lp-cms-production.imgix.net/2023-05/shutterstockeditorial1151311418.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/vasilyevsky-island/attractions/erarta-museum-of-contemporary-art/a/poi-sig/1278367/1336041",
+      "title": "Erarta Museum of Contemporary Art"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.949956865377", "lon": "30.315035168807" },
+      "esid": "ba987c00-ebdf-4b42-a0e3-536aa42897ed",
+      "excerpt": "Housing a cathedral where the Romanovs are buried, a former prison and various exhibitions, this large defensive fortress on Zayachy Island is the kernel…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "St Petersburg, Russia. Sailing ship anchored by the Peter and Paul Fortress.; Shutterstock ID 161765633; Your name (First / Last): Brana V; GL account no.: 65050; Netsuite department name: Online Editorial; Full Product or Project name including edition: destination page images",
+          "url": "https://lp-cms-production.imgix.net/2019-06/607e2dbe28ffa8d6e79c6587df6358e8-peter-paul-fortress.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/petrograd-vyborg-sides/attractions/peter-paul-fortress/a/poi-sig/374143/1336042",
+      "title": "Peter \u0026 Paul Fortress"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.940106", "lon": "30.32895" },
+      "esid": "e1dd8e22-7c78-480b-93f1-40fe5ba549c8",
+      "excerpt": "This five-domed dazzler is St Petersburg’s most elaborate church, with a classic Russian Orthodox exterior and an interior decorated with some 7000 sq…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Church on the Spilled Blood",
+          "url": "https://lp-cms-production.imgix.net/2019-06/100241073.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/historic-heart/attractions/church-of-the-saviour-on-the-spilled-blood/a/poi-sig/1278298/1336038",
+      "title": "Church of the Saviour on the Spilled Blood"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.921497310896", "lon": "30.386533962603" },
+      "esid": "f1ddd1ad-d1fa-46e9-8033-aaa925030bc3",
+      "excerpt": "The Alexander Nevsky Monastery – named for the patron saint of St Petersburg – is the city's most ancient and eminent monastery. Peter the Great made a…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Alexander Nevsky Monastery, named after St Petersburg's patron saint.",
+          "url": "https://lp-cms-production.imgix.net/2023-06/LPL-AlexanderNevskyMonastery.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/smolny-vosstaniya/attractions/alexander-nevsky-monastery/a/poi-sig/374289/1336039",
+      "title": "Alexander Nevsky Monastery"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "55.770526", "lon": "37.609731" },
+      "esid": "2bb11002-7a85-48de-8662-e01dafe6a490",
+      "excerpt": "All the things that have improved Moscow parks no end in recent years fill this small, charming garden to the brim. Today, it is possibly the most…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Moscow, Russia - July 29, 2018: People at the Moscow Festival of Italy Grand Italia Fest in the Hermitage Garden; Shutterstock ID 1145341304; your: Sloane Tucker; gl: 65050; netsuite: Online Editorial; full: POI\n1145341304",
+          "url": "https://lp-cms-production.imgix.net/2023-07/shutterstock1145341304-rfe.jpeg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Moscow" }],
+      "slug": "russia/moscow/tverskoy-novoslobodsky/attractions/hermitage-gardens/a/poi-sig/1495117/1336044",
+      "title": "Hermitage Gardens"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.933969208696", "lon": "30.306066739473" },
+      "esid": "54d6858e-a8b5-4533-83ff-be108dada4a1",
+      "excerpt": "The golden dome of St Isaac’s Cathedral dominates the St Petersburg skyline. Its obscenely lavish interior is open as a museum, although services are held…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "St Isaac's Cathedral.",
+          "url": "https://lp-cms-production.imgix.net/2019-06/a6c0ea705f8edbd3b61cb54049e35e1497fa15542d6467ada4482015e2207a9f.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/historic-heart/attractions/st-isaac-s-cathedral/a/poi-sig/374149/1336038",
+      "title": "St Isaac's Cathedral"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.938741", "lon": "30.318253" },
+      "esid": "70b00361-00e0-48af-9b7f-6d9f8729b77b",
+      "excerpt": "The east wing of this magnificent building, wrapping around the south of Dvortsovaya pl and designed by Carlo Rossi in the 1820s, marries restored…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": null,
+          "url": "https://lp-cms-production.imgix.net/2019-06/c038ccd011fd8cdc9e22b582311c5ddf-general-staff-building.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/historic-heart/attractions/general-staff-building/a/poi-sig/374327/1336038",
+      "title": "General Staff Building"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "57.16996879", "lon": "65.51283788" },
+      "esid": "534e0ffb-8562-42d1-b8f0-dbd2f7559b16",
+      "excerpt": "Riverside Trinity Monastery is undoubtedly Tyumen’s most appealing architectural complex. Its kremlin-style crenellated outer wall is pierced by a single…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Trinity Cathedral in Tyumen, Russia",
+          "url": "https://lp-cms-production.imgix.net/2019-06/460404913_medium.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Western Siberia" }],
+      "slug": "russia/siberia/tyumen/attractions/trinity-monastery/a/poi-sig/1066197/360544",
+      "title": "Trinity Monastery"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "46.950453", "lon": "142.759695" },
+      "esid": "5eaa3f9d-6cd7-417f-9e41-99c7b79eed3a",
+      "excerpt": "This extraordinary new addition to Yuzhno-Sakhalinsk's otherwise ho-hum architectural ensemble is a staggeringly impressive golden-domed cathedral, which…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "x-default",
+          "url": "https://lp-cms-production.imgix.net/2019-06/f0c45bcec93f2bf353799cbef6963394-cathedral-of-the-nativity.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Sakhalin Island" }],
+      "slug": "russia/russian-far-east/yuzhno-sakhalinsk/attractions/cathedral-of-the-nativity/a/poi-sig/1576760/360492",
+      "title": "Cathedral of the Nativity"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.934763", "lon": "30.34309" },
+      "esid": "d186c455-d8f6-4f94-a61d-51557f16fb8f",
+      "excerpt": "The magnificently restored Shuvalovsky Palace is home to the world's largest collection of pieces manufactured by the jeweller Peter Carl Fabergé …",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Faberge egg at the Faberge Museum in Saint Petersburg.",
+          "url": "https://lp-cms-production.imgix.net/2023-06/shutterstockeditorial1292364130.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/historic-heart/attractions/faberge-museum/a/poi-sig/1494094/1336038",
+      "title": "Fabergé Museum"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "55.750925573598", "lon": "37.617090940475" },
+      "esid": "e47d240c-d55b-4884-8860-b95cb7ced6c4",
+      "excerpt": "On the northern side of Sobornaya pl, with five golden helmet domes and four semicircular gables, the Assumption Cathedral is the focal church of pre…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Exterior of Assumption Cathedral, Kremlin.",
+          "url": "https://lp-cms-production.imgix.net/2019-06/60a52f6e5f457fa3a57a474cb6782349c193d174edb9613ad8a01f3d2c9eeb3d.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": false,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Moscow" }],
+      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/assumption-cathedral/a/poi-sig/373679/1336043",
+      "title": "Assumption Cathedral"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "55.825346", "lon": "37.635984" },
+      "esid": "efa495cf-b9bc-4bf4-b265-e47ac9704295",
+      "excerpt": "Palaces for workers! There is no better place to see this Soviet slogan put into practice than at VDNKh, which stands for Exhibition of Achievements of…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Golden statue in Friendship of the People Fountain at VDNKh (trade fair and amusement park).",
+          "url": "https://lp-cms-production.imgix.net/2019-06/5d1f7b607a2d2dd1b4745e5829628ea3e0cf107c37cd69f12d7020d050216ee1.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": false,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Moscow" }],
+      "slug": "russia/moscow/tverskoy-novoslobodsky/attractions/vdnkh/a/poi-sig/373665/1336044",
+      "title": "VDNKh"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.94320053", "lon": "30.3405451" },
+      "esid": "83a900de-867d-4a3c-8fab-bd657e8bdfc9",
+      "excerpt": "Also known as the Stieglitz Museum, this fascinating establishment is as beautiful as you would expect a decorative arts museum to be. An array of…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": null,
+          "url": "https://lp-cms-production.imgix.net/2019-06/f779321da24f66ed7b19fda79e7e6140-museum-of-decorative-applied-arts.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": false,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/smolny-vosstaniya/attractions/museum-of-decorative-applied-arts/a/poi-sig/1473776/1336039",
+      "title": "Museum of Decorative \u0026 Applied Arts"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.93588376", "lon": "30.34650458" },
+      "esid": "0e5439e4-ea59-4a9f-97ee-1a3a377fb53d",
+      "excerpt": "Housed in the south wing of the Sheremetyev Palace, this touching and fascinating literary museum celebrates the life and work of Anna Akhmatova, St…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Anna Akhmatova Museum, housed in the south wing of the Sheremetyev Palace.",
+          "url": "https://lp-cms-production.imgix.net/2023-05/LPL-AnnaAkhmatovaMuseum.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": false,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/smolny-vosstaniya/attractions/anna-akhmatova-museum-at-the-fountain-house/a/poi-sig/1120017/1336039",
+      "title": "Anna Akhmatova Museum at the Fountain House"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "55.750176842193", "lon": "37.617863416672" },
+      "esid": "f6e67f47-fa78-4d8a-8ee2-0ac85c28c452",
+      "excerpt": "The Archangel Cathedral at the southeastern corner of Sobornaya pl was for centuries the coronation, wedding and burial church of tsars. It was built by…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Lantern detail at Cathedral of Christ the Saviour.",
+          "url": "https://lp-cms-production.imgix.net/2019-06/c0a68a0328a474a401ee89fb55c1a8a9540c32fbc66007806de142f5fc2a57f0.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": false,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Moscow" }],
+      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/archangel-cathedral/a/poi-sig/373675/1336043",
+      "title": "Archangel Cathedral"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "55.750053058601", "lon": "37.616924643516" },
+      "esid": "214af9bc-8d5a-4e6a-bbf0-e0c108bfa420",
+      "excerpt": "The Annunciation Cathedral, at the southwest corner of Sobornaya pl, contains impressive murals in the gallery and an archaeology exhibit in the basement…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Close up view of Annunciation Cathedral cupola",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-517015357_super.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": false,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Moscow" }],
+      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/annunciation-cathedral/a/poi-sig/373671/1336043",
+      "title": "Annunciation Cathedral"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.939074496212", "lon": "30.29608535839" },
+      "esid": "03c1d61c-3cfd-4833-b554-5ca49d519563",
+      "excerpt": "The first stone building in the city, the Menshikov Palace was built to the grandiose tastes of Prince Alexander Menshikov, Peter the Great’s closest…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Menshikov Palace.",
+          "url": "https://lp-cms-production.imgix.net/2019-06/1ae0e2eb62bf8be4812312fa96fdb63defe15af6d66a705a8ba8728b9b33c566.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": false,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/vasilyevsky-island/attractions/menshikov-palace/a/poi-sig/374447/1336041",
+      "title": "Menshikov Palace"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "55.519181", "lon": "35.827403" },
+      "esid": "0624d4e6-d27d-4917-ba95-69091ca3f011",
+      "excerpt": "The entire battlefield – more than 100 sq km – is now part of the Borodino Field Museum-Preserve, its vast fields dotted with dozens of memorials to…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Stone monument in Borodino field, Russia.",
+          "url": "https://lp-cms-production.imgix.net/2023-05/iStock-1440032737.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": false,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Moscow" }],
+      "slug": "russia/borodino/attractions/borodino-field/a/poi-sig/1478492/360417",
+      "title": "Borodino Field"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.93947448", "lon": "30.31414525" },
+      "esid": "0361231d-f436-4a8f-8bd2-b5f7aafcca53",
+      "excerpt": "This vast expanse is simply one of the most striking squares in the world, still redolent of imperial grandeur almost a century after the end of the…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": null,
+          "url": "https://lp-cms-production.imgix.net/2019-06/3daf8e0b359f6a4ab4b15d38db1abd6b-palace-square.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": false,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/historic-heart/attractions/palace-square/a/poi-sig/1480183/1336038",
+      "title": "Palace Square"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "62.04417", "lon": "129.624252" },
+      "esid": "f478ae44-71a5-42d4-b926-b7119cc868b9",
+      "excerpt": "At Permafrost Kingdom, two neon-lit tunnels burrowed into a permanently frozen hill have been filled with dozens of fabulous, never-melting ice sculptures…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "Yakutsk, Russia - CIRCA 2017: The scenery inside Permafrost Kingdom, a tourist attraction in Yakutsk, Sakha Republic, Russia. It is an underground cave with a lot of ice statues and sculptures.",
+          "url": "https://lp-cms-production.imgix.net/2022-03/Russia%20Yakutsk%20Hani%20Santosa%20shutterstock_1476760115%20RFE.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": false,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "Yakutsk" }],
+      "slug": "russia/russian-far-east/yakutsk/attractions/permafrost-kingdom/a/poi-sig/1475709/360489",
+      "title": "Permafrost Kingdom"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.91652373", "lon": "30.30563502" },
+      "esid": "58986940-2957-40d4-8f32-12e04f99fed3",
+      "excerpt": "The Trinity Cathedral boasts stunning blue cupolas emblazoned with golden stars. A devastating fire in 2006 caused the 83m-high central cupola to collapse…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": null,
+          "url": "https://lp-cms-production.imgix.net/2019-06/4e12501d5e8b66b2b4b2bf830246ed92-trinity-cathedral.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": false,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/smolny-vosstaniya/attractions/trinity-cathedral/a/poi-sig/1480393/1336039",
+      "title": "Trinity Cathedral"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": { "lat": "59.936440424186", "lon": "30.30211687088" },
+      "esid": "09ae506c-bd36-48fe-a42f-cfa6031b2e88",
+      "excerpt": "The most famous statue of Peter the Great was immortalised as the Bronze Horseman in the epic poem by Alexander Pushkin. With his horse (representing…",
+      "images": [
+        {
+          "__typename": "Image",
+          "alt": "The Bronze Horseman is an equestrian statue of Peter the Great in Saint-Petersburg, Russia..August, 2014.=========================================.Медный Всадник. Памятник Петру Первому..Санкт-Петербург, Россия..Август, 2014",
+          "url": "https://lp-cms-production.imgix.net/2019-06/92917399.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": false,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
+      "slug": "russia/st-petersburg/historic-heart/attractions/bronze-horseman/a/poi-sig/374307/1336038",
+      "title": "Bronze Horseman"
+    }
+  ]
+}
