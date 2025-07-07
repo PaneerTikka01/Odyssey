@@ -7,14 +7,21 @@ export default async function handler(
   res: NextApiResponse
 ) {
   await connectToDatabase();
+
   const country = Array.isArray(req.query.country)
     ? req.query.country[0]
     : req.query.country;
 
   if (req.method === "POST") {
+    //  Block POST if DB access is disabled
+    if (process.env.DB_ACCESS_ENABLED !== "true") {
+      return res
+        .status(503)
+        .json({ error: "Database write access is currently disabled." });
+    }
+
     try {
       const { items } = req.body;
-      // Upsert on countryCode
       const doc = await Attraction.findOneAndUpdate(
         { countryCode: country },
         { countryCode: country, pois: items },
@@ -33,7 +40,7 @@ export default async function handler(
     }
     return res.status(200).json(doc.pois);
   }
-  
+
   res.setHeader("Allow", ["GET", "POST"]);
   res.status(405).end(`Method ${req.method} Not Allowed`);
 }
