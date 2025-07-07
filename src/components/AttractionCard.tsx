@@ -34,7 +34,9 @@ export default function AttractionCard({ poi, onClick }: Props) {
           <p className="text-sm uppercase text-gray-1000 font-bold">
             {poi.places.map((p) => p.title).join(", ")}
           </p>
-          <p className="line-clamp-3 text-gray-700">{poi.excerpt}</p>
+          <p className="line-clamp-3 text-gray-700">
+            {poi.excerpt.replace(/^\*\*Description:\*\*\s*/, "")}
+          </p>
         </div>
       </article>
     </li>

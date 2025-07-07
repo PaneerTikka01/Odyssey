@@ -2,14 +2,16 @@
   "items": [
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "55.74953124", "lon": "37.61338835" },
-      "esid": "987c75d4-c098-4788-bb98-03a2e77395d9",
-      "excerpt": "The Armoury dates to 1511, when it was founded under Vasily III to manufacture and store weapons, imperial arms and regalia for the royal court. Later it…",
+      "coordinates": {
+        "lat": "26.297722459222",
+        "lon": "73.018562684764"
+      },
+      "esid": "855d3441-f726-41c6-93ee-ec062a63e0ec",
+      "excerpt": "**Description:** Rising perpendicular from a rocky hill that itself stands 120 m above Jodhpur’s skyline, Mehrangarh Fort is one of India’s most magnificent hill forts.\n\n**History:** Founded in 1459 by Rao Jodha, the fort has witnessed centuries of Rathore rule and witnessed numerous sieges and expansions.\n\n**Architecture:** Built of red sandstone, its massive walls enclose intricate palaces adorned with latticed windows, expansive courtyards, and elaborately carved panels.\n\n**Battlements & Gates:** Seven robust gates guard the approach, each named for a battle or event, showcasing Rajput military ingenuity.\n\n**Palace Complex:** Includes the Moti Mahal (Pearl Palace), Phool Mahal (Flower Palace), and Sheesh Mahal (Mirror Palace), each richly decorated.\n\n**Interiors:** Walls and ceilings feature frescoes, mirror work, and murals depicting scenes from Rajput history and Hindu mythology.\n\n**Museum:** Housed within the fort are galleries displaying royal palanquins, arms and armor, paintings, and textiles.\n\n**Cannonry:** The ramparts are dotted with historic cannons such as the Fateh and Garh, evoking the fort’s martial past.\n\n**Cultural Significance:** A center for Rajasthani arts, it hosts the annual Rajasthan International Folk Festival (RIFF) and World Sufi Spirit Festival.\n\n**Panoramic Views:** From the fort’s ramparts one can admire the “Blue City” below, with its sea of azure-painted houses.\n\n**Legends:** According to local lore, corpses of two milkmaids were sacrificed to placate the gods and strengthen its foundations.\n\n**Conservation:** Restored by the Mehrangarh Museum Trust, efforts focus on preserving frescoes and structural integrity.\n\n**Lighting:** The fort is spectacularly illuminated at night, creating a magical silhouette against the desert sky.\n\n**Visitor Experience:** Audio guides and guided tours bring to life tales of valor, architecture, and royal life.\n\n**Nearby Attractions:** Jaswant Thada marble cenotaph lies a short walk below the fort’s battlements.\n\n**Best Time to Visit:** October to March, when cooler temperatures make exploration comfortable.\n\n**Duration:** Allocate 2–3 hours to see the palaces, galleries, and ramparts thoroughly.\n\n**Photography Tips:** Early morning light highlights the red sandstone; sunset casts dramatic shadows.\n\n**Local Crafts:** The fort complex is surrounded by stalls selling Rajasthani handicrafts, textiles, and miniatures.\n\n**Accessibility:** Entry via a ramp and elevator is available for visitors with mobility challenges.\n\n**Events & Workshops:** Traditional music recitals and folk dance performances are regularly scheduled.\n\n**Dining:** The Rampura Haveli restaurant inside the fort offers Rajasthani cuisine with a view.\n\n**Admission:** Tickets can be purchased on-site or online, with separate fees for museum and audio guide.\n\n**Opening Hours:** 9:00 AM to 5:00 PM daily; closed on major public holidays.\n\n**Rules & Regulations:** Photography allowed; drones and tripods restricted without prior permission.\n\n**History Tours:** Special heritage walks delve into lesser-known tales and hidden passages.\n\n**How_to_get_there:** By road—15 km from Jodhpur Railway Station; taxis, auto-rickshaws, and cycle rickshaws available.\n\n**Coordinates:** 26.2958 N, 73.0179 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "The crown of Tsar Mikhail Fyodorovich in the Armoury in the Kremlin, Moscow. 21/06/2003. (Photo by Jeff Overs/BBC News \u0026 Current Affairs via Getty Images)",
-          "url": "https://lp-cms-production.imgix.net/2019-06/490705545_master.jpg"
+          "alt": "Mehrangarh Fort.",
+          "url": "https://lp-cms-production.imgix.net/2019-06/5f48159fbc4089ba19b8c3e7978ed642-mehrangarh.jpg"
         }
       ],
       "meta": {
@@ -22,20 +24,26 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "Moscow" }],
-      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/armoury/a/poi-sig/1473319/1336043",
-      "title": "Armoury"
+      "places": [
+        {
+          "title": "Jodhpur"
+        }
+      ],
+      "slug": "india/rajasthan/jodhpur/attractions/mehrangarh/a/poi-sig/1148426/356466",
+      "title": "Mehrangarh"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "59.941746679317", "lon": "30.315293746976" },
-      "esid": "5da25c91-760e-49b6-b47d-a42b93ae327f",
-      "excerpt": "The Hermitage fully lives up to its sterling reputation. You can be absorbed by its treasures for days and still come out wanting more. The enormous…",
+      "coordinates": {
+        "lat": "27.174947459318",
+        "lon": "78.041997644188"
+      },
+      "esid": "a9a1da92-fa81-451c-afe4-83bad56196a6",
+      "excerpt": "**Description:** The Taj Mahal is a luminous white-marble mausoleum, universally admired as the pinnacle of Mughal architecture.\n\n**History:** Commissioned in 1632 by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, it took over 20 years and thousands of artisans to complete.\n\n**Inspiration:** Combines Persian, Islamic, and Indian architectural styles in perfect symmetry.\n\n**Main Mausoleum:** The central dome rises 73 m high, flanked by four slender minarets and topped with a lotus-shaped finial.\n\n**Materials:** Crafted from Makrana marble inlaid with semi-precious stones like lapis lazuli, jade, and agate using pietra dura techniques.\n\n**Calligraphy:** Verses from the Quran adorn the entrance archways, executed in black marble inlay.\n\n**Gardens:** The Charbagh layout divides the grounds into four quadrants by reflecting pools and water channels symbolizing paradisiacal gardens.\n\n**Secondary Structures:** Includes a red sandstone mosque to the west and a guest house to the east, forming a harmonious ensemble.\n\n**Reflecting Pool:** Captures the ethereal reflection of the mausoleum, enhancing its otherworldly appearance.\n\n**Significance:** Poet Rabindranath Tagore called it 'a teardrop on the cheek of eternity.'\n\n**UNESCO Status:** Designated a World Heritage Site in 1983 for its universal cultural value.\n\n**Lighting:** At dawn and dusk, the marble changes hue, from soft pink to milky white and golden at sunset.\n\n**Conservation:** Ongoing efforts to combat air pollution and yellowing of marble, including mud-pack therapy.\n\n**Tourism Management:** Timed-ticketing limits crowding; early morning entry is recommended.\n\n**Photography Tips:** Best shots at sunrise when crowds are minimal and light is gentle.\n\n**Cultural Events:** Full moon night viewing is offered five days before and after the full moon, excluding Fridays and public holidays.\n\n**Visitor Facilities:** On-site museum, gift shop, and visitor center provide educational resources.\n\n**Admission:** Separate fees for domestic and international visitors; combined ticket includes entry to the main mausoleum and gardens.\n\n**Opening Hours:** 6:00 AM–6:30 PM daily except Fridays.\n\n**Dress Code:** Modest attire required; head coverings recommended inside the mausoleum.\n\n**Accessibility:** Wheelchair access and battery-operated vehicles available from the ticket office.\n\n**Local Cuisine:** Nearby eateries serve traditional Awadhi kebabs and Mughlai biryani.\n\n**Nearby Attractions:** Agra Fort, Fatehpur Sikri, and Mehtab Bagh across the Yamuna River.\n\n**How_to_get_there:** 2.5 km from Agra Cantt Railway Station by auto-rickshaw or cycle rickshaw; taxis and app cabs also available.\n\n**Coordinates:** 27.1751 N, 78.0421 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "Jordan Staircase Of Hermitage Museum",
-          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-562854471_high.jpg"
+          "alt": "Taj Mahal, Agra, India",
+          "url": "https://lp-cms-production.imgix.net/2019-06/283389.jpg"
         }
       ],
       "meta": {
@@ -48,20 +56,26 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/historic-heart/attractions/state-hermitage-museum/a/poi-sig/1278294/1336038",
-      "title": "State Hermitage Museum"
+      "places": [
+        {
+          "title": "Agra"
+        }
+      ],
+      "slug": "india/uttar-pradesh/agra/attractions/taj-mahal/a/poi-sig/449189/356509",
+      "title": "Taj Mahal"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "55.752465258339", "lon": "37.623109817505" },
-      "esid": "3d30f536-cdcd-4753-a10f-44fb36cce140",
-      "excerpt": "At the southern end of Red Square stands the icon of Russia: St Basil’s Cathedral. This crazy confusion of colours, patterns and shapes is the culmination…",
+      "coordinates": {
+        "lat": "27.180235967795",
+        "lon": "78.020038567179"
+      },
+      "esid": "43fe2522-aab0-412c-97c9-d098a85e02a4",
+      "excerpt": "**Description:** A sprawling red sandstone fortress, Agra Fort is an imposing walled city that served as the main residence of the Mughal emperors.\n\n**History:** Originally built by Emperor Akbar in 1565 and later modified by Shah Jahan, it played a pivotal role in Mughal politics.\n\n**Layout:** Enclosed within 2.5 km of defensive walls, the fort encloses numerous palaces, halls, and mosques in a quadratic plan.\n\n**Entrance Gates:** The Amar Singh and Delhi gates feature intricate carvings and served as official entry points.\n\n**Diwan-i-Am:** The Hall of Public Audience, where the emperor received his subjects against a backdrop of carved pillars.\n\n**Diwan-i-Khas:** The Hall of Private Audience, featuring the famous marble Peacock Throne (now lost) and Jali screens.\n\n**Jahangir’s Palace:** A two-storeyed red sandstone pavilion built by Shah Jahan for his father, showcasing Mughal elegance.\n\n**Musamman Burj:** A white marble octagonal tower with a balcony offering panoramic views of the Taj Mahal, where Shah Jahan was imprisoned.\n\n**Khas Mahal:** The emperor’s private residence, decorated with pietra dura and delicate marble relief work.\n\n**Mosque:** The Nagina Masjid, built by Shah Jahan, is known for its serene atmosphere and star-shaped domes.\n\n**Gardens:** The Musamman Burj was once surrounded by Charbagh-style gardens, now reduced to traces of pathways.\n\n**Architectural Styles:** Exhibits a blend of Hindu and Islamic motifs, reflecting the syncretic nature of Mughal design.\n\n**Strategic Importance:** Its location near the Yamuna River allowed for supply routes and sluice gates to flood the moat.\n\n**UNESCO Status:** Designated a World Heritage Site in 1983 alongside the Taj Mahal.\n\n**Visitor Experience:** Audio guides map out a route through the major monuments and hidden gems.\n\n**Photography Tips:** Late afternoon light illuminates the red sandstone façades.\n\n**Local Lore:** Legend says that Shah Jahan’s ghost haunts the Musamman Burj at night.\n\n**Conservation:** Restoration is ongoing to stabilize structures and restore faded murals.\n\n**Admission:** Separate ticket from the Taj Mahal; concessions for children and students.\n\n**Opening Hours:** Sunrise to sunset; closed Fridays for Jummah prayers.\n\n**How_to_get_there:** 2 km from Agra Cantt Railway Station; accessible by rickshaw or taxi.\n\n**Coordinates:** 27.1795 N, 78.0211 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "St. Basil's Cathedral in Red Square, Moscow, Russia",
-          "url": "https://lp-cms-production.imgix.net/2019-06/1a92cca135c161ed7ae94513805d7691-st-basil-s-cathedral.jpg"
+          "alt": "India, Uttar Pradesh, Agra, Agra Fort, Hall of Public Audience",
+          "url": "https://lp-cms-production.imgix.net/2019-06/afa35ec6a9e15acf863935f4c3c154b6-agra-fort.jpg"
         }
       ],
       "meta": {
@@ -74,20 +88,26 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "Moscow" }],
-      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/st-basil-s-cathedral/a/poi-sig/373447/1336043",
-      "title": "St Basil's Cathedral"
+      "places": [
+        {
+          "title": "Agra"
+        }
+      ],
+      "slug": "india/uttar-pradesh/agra/attractions/agra-fort/a/poi-sig/449177/356509",
+      "title": "Agra Fort"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "59.941293", "lon": "30.303898" },
-      "esid": "163461f7-c6fb-4185-8db5-d98806ca9ad4",
-      "excerpt": "Also known as the Museum of Ethnology and Anthropology, this is the city’s first museum, founded in 1714 by Peter himself. It is famous largely for its…",
+      "coordinates": {
+        "lat": "26.925657",
+        "lon": "75.824279"
+      },
+      "esid": "3bb5edbd-bfe3-4cb5-963d-890f9ed84ede",
+      "excerpt": "**Description:** The City Palace is a sprawling complex of courtyards, gardens, and buildings at the heart of Jaipur’s Old City.\n\n**History:** Constructed between 1729 and 1732 by Maharaja Sawai Jai Singh II, the city’s founder.\n\n**Entrance:** The ornate Tripolia Gate welcomes visitors into the first courtyard, once used for public audiences.\n\n**Chandra Mahal:** The main residential palace, still home to the Jaipur royal family, with seven floors each named after planets.\n\n**Mubarak Mahal:** Originally a reception hall for royal guests, now houses a museum of royal costumes and textiles.\n\n**Diwan-i-Khas:** The Hall of Private Audience, famed for its silver urns (‘Gangajalis’) that once supplied holy water from the Ganges.\n\n**Diwan-i-Am:** The Hall of Public Audience, featuring decorative silver thrones and a canopy of white marble.\n\n**Pritam Niwas Chowk:** The inner courtyard with four gateways (mukhaps), each representing a season with symbolic motifs.\n\n**Architecture:** Blends Rajput, Mughal, and European styles, with ornate facades and delicate latticework.\n\n**Art & Artefacts:** The museum showcases arms, manuscripts, paintings, and decorative arts from the royal collection.\n\n**Garden Layout:** Manek Chowk garden offers a tranquil retreat with fountains and manicured lawns.\n\n**Astronomical Significance:** Jai Singh’s interest in astronomy is reflected in celestial motifs throughout the palace.\n\n**Conservation:** The Maharaja Sawai Man Singh II Museum Trust oversees preservation and guided tours.\n\n**Cultural Events:** Hosts festivals like Teej and Gangaur with traditional performances and processions.\n\n**Photography Tips:** Early morning light enhances the pastel façades and intricate stonework.\n\n**Visitor Information:** Audio guides available; some sections accessible only with guided tours.\n\n**Admission:** Tickets include entry to the palace museum; discounts for students and groups.\n\n**Opening Hours:** 9:30 AM–5:00 PM daily; closed on public holidays.\n\n**Rules:** No photography inside the Mubarak Mahal exhibits; modest dress required.\n\n**Nearby Attractions:** Jantar Mantar observatory and Hawa Mahal within walking distance.\n\n**How_to_get_there:** 1 km from Jaipur Railway Station; local buses and rickshaws readily available.\n\n**Coordinates:** 26.9258 N, 75.8230 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": null,
-          "url": "https://lp-cms-production.imgix.net/2019-06/77b22514178ea0fc2e7a5e88969edeb0-kunstkamera.jpg"
+          "alt": "City Palace architecture",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-169577862_super.jpg"
         }
       ],
       "meta": {
@@ -100,20 +120,26 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/vasilyevsky-island/attractions/kunstkamera/a/poi-sig/374253/1336041",
-      "title": "Kunstkamera"
+      "places": [
+        {
+          "title": "Jaipur"
+        }
+      ],
+      "slug": "india/rajasthan/jaipur/attractions/city-palace/a/poi-sig/449391/356451",
+      "title": "City Palace"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "59.928847785943", "lon": "30.297371976267" },
-      "esid": "7dd9b3db-eeb8-495d-8fd1-8ecf0cb65200",
-      "excerpt": "This spectacular palace on the Moyka River has some of the best 19th-century interiors in the city, in addition to a fascinating and gruesome history. The…",
+      "coordinates": {
+        "lat": "26.98666",
+        "lon": "75.851535"
+      },
+      "esid": "c977fee4-93eb-4bba-aae6-84002d4bc3a5",
+      "excerpt": "**Description:** Amber Fort is a magnificent hilltop fortress-palace complex built from pale yellow and pink sandstone and white marble.\n\n**History:** Constructed in the late 16th century by Raja Man Singh I and expanded by subsequent rulers.\n\n**Layout:** Divided into four main sections, each with its own courtyard and gateways.\n\n**Suraj Pol:** The imposing Sun Gate, the main entrance, faces the rising sun to honor the solar deity.\n\n**Jaleb Chowk:** The first courtyard where troops would assemble before battle.\n\n**Diwan-i-Aam:** The Hall of Public Audience, featuring carved columns and red sandstone pillars.\n\n**Diwan-i-Khas:** The Hall of Private Audience, known as the Sheesh Mahal or Mirror Palace, with intricate mirror mosaics.\n\n**Sheesh Mahal:** Walls and ceilings encrusted with tiny mirrors and colored glass creating a starry-night effect when lit.\n\n**Ganesh Pol:** A beautifully painted gate with frescoes of Lord Ganesh, leading to private palaces.\n\n**Sukh Niwas:** The Hall of Pleasure, once cooled by wind passing over channels of water.\n\n**Zenana Quarters:** The women’s palace with delicate latticed windows for privacy.\n\n**Gardens:** Moat surrounds the fort; inside are Mughal-style gardens with fountains and parterres.\n\n**Elephant Rides:** Traditional elephant processions carry visitors up the steep path to the fort entrance.\n\n**Sound & Light Show:** Evening presentations recount the fort’s history under dramatic illumination.\n\n**Cultural Programmes:** Folk dance and music performances held nightly in the courtyard.\n\n**Photography Tips:** Sunset views from the Jaleb Chowk gate offer dramatic silhouettes.\n\n**Visitor Amenities:** On-site cafeteria, gift shops, and restrooms available.\n\n**Admission:** Separate ticket for the fort; additional fee for the light show and elephant rides.\n\n**Opening Hours:** 8:00 AM–5:30 PM; light show at 7:00 PM (timing varies seasonally).\n\n**Conservation:** Ongoing restoration of frescoes and mirror work by the Amer Development and Urban Expansion Authority.\n\n**Rules:** No climbing on walls; respect designated pathways and restricted areas.\n\n**How_to_get_there:** 11 km from Jaipur city center; taxis, auto-rickshaws, and guided tours available.\n\n**Coordinates:** 26.9855 N, 75.8513 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "Yusupov palace on the Moyka river.\r\n",
-          "url": "https://lp-cms-production.imgix.net/2023-06/iStock-1176374059.jpg"
+          "alt": "India, Rajasthan, Jaipur, Amber Fort",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-150973124_super.jpg"
         }
       ],
       "meta": {
@@ -126,410 +152,26 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/sennaya-kolomna/attractions/yusupov-palace/a/poi-sig/374443/1336040",
-      "title": "Yusupov Palace"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "55.752997", "lon": "37.619548" },
-      "esid": "6d789d6d-7845-4928-ad7c-740591f60c9a",
-      "excerpt": "The apex of Russian political power and once the centre of the Orthodox Church, the Kremlin is the kernel of not only Moscow, but of the whole country…",
-      "images": [
+      "places": [
         {
-          "__typename": "Image",
-          "alt": "Exterior of Water Tower at Kremlin.",
-          "url": "https://lp-cms-production.imgix.net/2019-06/c7345c3a11fd953e8734c78b75810d0d673af699685431da31f53446bad2b3c5.jpg"
+          "title": "Eastern Rajasthan"
         }
       ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "Moscow" }],
-      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/moscow-kremlin/a/poi-sig/1286803/1336043",
-      "title": "Moscow Kremlin"
+      "slug": "india/rajasthan/amber/attractions/amber-fort/a/poi-sig/1286368/1329231",
+      "title": "Amber Fort"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "55.753631", "lon": "37.619945" },
-      "esid": "1bbee47a-5bba-47f5-bad3-d1f2af42cb34",
-      "excerpt": "Although Vladimir Ilych requested that he be buried beside his mum in St Petersburg, he still lies in state at the foot of the Kremlin wall, receiving…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": "Mausoleum on Red Square, Moscow, Russia; Shutterstock ID 64158388; Your name (First / Last): Josh Vogel; Project no. or GL code: 56530; Network activity no. or Cost Centre: Online-Design; Product or Project: 65050/7529/Josh Vogel/LP.com Destination Galleries",
-          "url": "https://lp-cms-production.imgix.net/2019-06/shutterstock_64158388.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
+      "coordinates": {
+        "lat": "21.526424",
+        "lon": "70.5024"
       },
-      "places": [{ "__typename": "Place", "title": "Moscow" }],
-      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/lenin-s-mausoleum/a/poi-sig/1279543/1336043",
-      "title": "Lenin's Mausoleum"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "59.92550351", "lon": "30.29577533" },
-      "esid": "3d2d1706-945b-4d0c-b4ae-7ee10e80ceb2",
-      "excerpt": "The Mariinsky Theatre has played a pivotal role in Russian ballet ever since it was built in 1859 and remains one of Russia's most loved and respected…",
+      "esid": "fe0091db-40a8-4657-a099-097f363cce73",
+      "excerpt": "**Description:** Girnar Hill is a sacred mountain rising dramatically from the plains, crowned by ancient Hindu and Jain temples.\n\n**History:** Pilgrimages to Girnar date back over 2,000 years; Ashoka’s Rock Edicts mark its Buddhist significance.\n\n**Ascent:** A challenging climb of over 10,000 steps carved into the rock, with resting platforms and dharamshalas.\n\n**Jain Temples:** Seventeen marble temples at the summit, the oldest dating to the 11th century, dedicated to Tirthankaras.\n\n**Neminath Temple:** The tallest temple, built in the 12th century, features sculpted domes and ornate pillared halls.\n\n**Amba Mata Temple:** A pink sandstone shrine halfway up, dedicated to the goddess Amba, bustling on Navratri.\n\n**Dattatreya Temple:** Near the summit, dedicated to the Hindu sage, attracting devotees year-round.\n\n**Girnar Taleti:** The starting point with shops selling religious offerings and refreshments.\n\n**Scenic Views:** Panoramic vistas of Junagadh city, the Girnar Wildlife Sanctuary, and the Girnar Suspension Bridge.\n\n**Wildlife:** Monkeys, langurs, and birds such as peafowl inhabit the forested slopes.\n\n**Festivals:** The Kartik Poornima fair sees thousands of pilgrims climbing barefoot carrying Kanwars.\n\n**Architecture:** Temple complexes exhibit Māru-Gurjara craftsmanship with intricate carvings and shikhara spires.\n\n**Conservation:** Archaeological Survey of India maintains the sites; restoration of weathered stonework ongoing.\n\n**Pilgrim Facilities:** Basic shelters and drinking water points at intervals along the ascent.\n\n**Local Legends:** Legend says Krishna visited Girnar to meet his friend Sudama, giving the hill its name.\n\n**Visitor Tips:** Start before dawn to avoid midday heat; wear sturdy shoes and carry water.\n\n**Nearby Sights:** Uperkot Fort ruins, Ashoka’s Rock Edicts, and Junagadh’s bustling bazaars.\n\n**Photography Tips:** Early morning mist over the temples creates an ethereal atmosphere.\n\n**Accessibility:** The climb is steep and not suitable for those with mobility issues.\n\n**Rules:** Respect temple sanctity; remove footwear and observe silence in shrines.\n\n**How_to_get_there:** 6 km from Junagadh Railway Station by rickshaw or taxi.\n\n**Coordinates:** 21.5158 N, 70.4700 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "Mariinsky theater in Saint Petersburg, Russia.",
-          "url": "https://lp-cms-production.imgix.net/2023-04/shutterstock_1751419403.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/sennaya-kolomna/attractions/mariinsky-theatre/a/poi-sig/1480411/1336040",
-      "title": "Mariinsky Theatre"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "59.93886885", "lon": "30.33226812" },
-      "esid": "4453813b-1308-44d4-bff4-7bdbd5f47288",
-      "excerpt": "Focusing solely on Russian art, from ancient church icons to 20th-century paintings, the Russian Museum's collection is magnificent and can easily be…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": "State Russian Museum....The Russian Museum today is a unique depository of artistic treasures, a leading restoration center, an authoritative institute of academic research, a major educational center and the nucleus of a network of national museums of art...The Russian Museum collection contains more than 400.000 exhibits. The main complex of museum buildings - the Mikhailovsky Palace and Benois Wing - houses the permanent exhibition of the Russian Museum, tracing the entire history of Russian art from the tenth to the twentieth centuries. The museum collection embraces all forms, genres, schools and movements of art.....www.rusmuseum.ru/eng",
-          "url": "https://lp-cms-production.imgix.net/2019-06/26622599.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/historic-heart/attractions/russian-museum/a/poi-sig/1278305/1336038",
-      "title": "Russian Museum"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "55.753259156405", "lon": "37.62190757253" },
-      "esid": "533a8eec-8a37-401c-b7d3-d1dff7554f93",
-      "excerpt": "Immediately outside the Kremlin’s northeastern wall is the celebrated Red Square, the 400m-by-150m area of cobblestones that is at the very heart of…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": "Moscow's Red Square",
-          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-498208877_high.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "Moscow" }],
-      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/red-square/a/poi-sig/1286797/1336043",
-      "title": "Red Square"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "58.19889517", "lon": "68.25389758" },
-      "esid": "26251439-ad88-4010-a455-3cc48e563e88",
-      "excerpt": "The centrepiece of the tower-studded, white-walled, 18th-century kremlin is the glorious 1686 St Sofia Cathedral. Less eye-catching from the outside, but…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": "Tobolsk Kremlin and the Sophia-Assumption Cathedral, built in 1689. ",
-          "url": "https://lp-cms-production.imgix.net/2023-06/iStock-1434073602.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "Western Siberia" }],
-      "slug": "russia/siberia/tobolsk/attractions/kremlin/a/poi-sig/1474804/360543",
-      "title": "Kremlin"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "59.929522", "lon": "30.289167" },
-      "esid": "390642cc-24d3-4b27-9df2-bcc556eca1e6",
-      "excerpt": "This triangular island was closed for the most part of the last three centuries, and has opened to the public in dazzling fashion. There's plenty going on…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": "The pond on New Holland island in St Petersburg.",
-          "url": "https://lp-cms-production.imgix.net/2019-06/3fe44019029da46994bad48147e02b61-lpl-03619.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/sennaya-kolomna/attractions/new-holland/a/poi-sig/1473804/1336040",
-      "title": "New Holland"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "59.932243", "lon": "30.251434" },
-      "esid": "bb807b11-01ca-41c3-9241-dba9ca814b6a",
-      "excerpt": "Erarta's superb hoard of 2800 pieces of Russian contemporary art trumps its somewhat far-flung location. Housed in an ingeniously converted neoclassical…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": "Erarta, Museum of modern art.",
-          "url": "https://lp-cms-production.imgix.net/2023-05/shutterstockeditorial1151311418.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/vasilyevsky-island/attractions/erarta-museum-of-contemporary-art/a/poi-sig/1278367/1336041",
-      "title": "Erarta Museum of Contemporary Art"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "59.949956865377", "lon": "30.315035168807" },
-      "esid": "ba987c00-ebdf-4b42-a0e3-536aa42897ed",
-      "excerpt": "Housing a cathedral where the Romanovs are buried, a former prison and various exhibitions, this large defensive fortress on Zayachy Island is the kernel…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": "St Petersburg, Russia. Sailing ship anchored by the Peter and Paul Fortress.; Shutterstock ID 161765633; Your name (First / Last): Brana V; GL account no.: 65050; Netsuite department name: Online Editorial; Full Product or Project name including edition: destination page images",
-          "url": "https://lp-cms-production.imgix.net/2019-06/607e2dbe28ffa8d6e79c6587df6358e8-peter-paul-fortress.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/petrograd-vyborg-sides/attractions/peter-paul-fortress/a/poi-sig/374143/1336042",
-      "title": "Peter \u0026 Paul Fortress"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "59.940106", "lon": "30.32895" },
-      "esid": "e1dd8e22-7c78-480b-93f1-40fe5ba549c8",
-      "excerpt": "This five-domed dazzler is St Petersburg’s most elaborate church, with a classic Russian Orthodox exterior and an interior decorated with some 7000 sq…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": "Church on the Spilled Blood",
-          "url": "https://lp-cms-production.imgix.net/2019-06/100241073.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/historic-heart/attractions/church-of-the-saviour-on-the-spilled-blood/a/poi-sig/1278298/1336038",
-      "title": "Church of the Saviour on the Spilled Blood"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "59.921497310896", "lon": "30.386533962603" },
-      "esid": "f1ddd1ad-d1fa-46e9-8033-aaa925030bc3",
-      "excerpt": "The Alexander Nevsky Monastery – named for the patron saint of St Petersburg – is the city's most ancient and eminent monastery. Peter the Great made a…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": "Alexander Nevsky Monastery, named after St Petersburg's patron saint.",
-          "url": "https://lp-cms-production.imgix.net/2023-06/LPL-AlexanderNevskyMonastery.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/smolny-vosstaniya/attractions/alexander-nevsky-monastery/a/poi-sig/374289/1336039",
-      "title": "Alexander Nevsky Monastery"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "55.770526", "lon": "37.609731" },
-      "esid": "2bb11002-7a85-48de-8662-e01dafe6a490",
-      "excerpt": "All the things that have improved Moscow parks no end in recent years fill this small, charming garden to the brim. Today, it is possibly the most…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": "Moscow, Russia - July 29, 2018: People at the Moscow Festival of Italy Grand Italia Fest in the Hermitage Garden; Shutterstock ID 1145341304; your: Sloane Tucker; gl: 65050; netsuite: Online Editorial; full: POI\n1145341304",
-          "url": "https://lp-cms-production.imgix.net/2023-07/shutterstock1145341304-rfe.jpeg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "Moscow" }],
-      "slug": "russia/moscow/tverskoy-novoslobodsky/attractions/hermitage-gardens/a/poi-sig/1495117/1336044",
-      "title": "Hermitage Gardens"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "59.933969208696", "lon": "30.306066739473" },
-      "esid": "54d6858e-a8b5-4533-83ff-be108dada4a1",
-      "excerpt": "The golden dome of St Isaac’s Cathedral dominates the St Petersburg skyline. Its obscenely lavish interior is open as a museum, although services are held…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": "St Isaac's Cathedral.",
-          "url": "https://lp-cms-production.imgix.net/2019-06/a6c0ea705f8edbd3b61cb54049e35e1497fa15542d6467ada4482015e2207a9f.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/historic-heart/attractions/st-isaac-s-cathedral/a/poi-sig/374149/1336038",
-      "title": "St Isaac's Cathedral"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "59.938741", "lon": "30.318253" },
-      "esid": "70b00361-00e0-48af-9b7f-6d9f8729b77b",
-      "excerpt": "The east wing of this magnificent building, wrapping around the south of Dvortsovaya pl and designed by Carlo Rossi in the 1820s, marries restored…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": null,
-          "url": "https://lp-cms-production.imgix.net/2019-06/c038ccd011fd8cdc9e22b582311c5ddf-general-staff-building.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/historic-heart/attractions/general-staff-building/a/poi-sig/374327/1336038",
-      "title": "General Staff Building"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "57.16996879", "lon": "65.51283788" },
-      "esid": "534e0ffb-8562-42d1-b8f0-dbd2f7559b16",
-      "excerpt": "Riverside Trinity Monastery is undoubtedly Tyumen’s most appealing architectural complex. Its kremlin-style crenellated outer wall is pierced by a single…",
-      "images": [
-        {
-          "__typename": "Image",
-          "alt": "Trinity Cathedral in Tyumen, Russia",
-          "url": "https://lp-cms-production.imgix.net/2019-06/460404913_medium.jpg"
-        }
-      ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": true,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "Western Siberia" }],
-      "slug": "russia/siberia/tyumen/attractions/trinity-monastery/a/poi-sig/1066197/360544",
-      "title": "Trinity Monastery"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "46.950453", "lon": "142.759695" },
-      "esid": "5eaa3f9d-6cd7-417f-9e41-99c7b79eed3a",
-      "excerpt": "This extraordinary new addition to Yuzhno-Sakhalinsk's otherwise ho-hum architectural ensemble is a staggeringly impressive golden-domed cathedral, which…",
-      "images": [
-        {
-          "__typename": "Image",
           "alt": "x-default",
-          "url": "https://lp-cms-production.imgix.net/2019-06/f0c45bcec93f2bf353799cbef6963394-cathedral-of-the-nativity.jpg"
+          "url": "https://lp-cms-production.imgix.net/2019-06/d0f6c5281093131f75bd49beaf5b7257-girnar-hill.jpg"
         }
       ],
       "meta": {
@@ -542,20 +184,26 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "Sakhalin Island" }],
-      "slug": "russia/russian-far-east/yuzhno-sakhalinsk/attractions/cathedral-of-the-nativity/a/poi-sig/1576760/360492",
-      "title": "Cathedral of the Nativity"
+      "places": [
+        {
+          "title": "Gujarat & Diu"
+        }
+      ],
+      "slug": "india/gujarat/junagadh/attractions/girnar-hill/a/poi-sig/1294435/356254",
+      "title": "Girnar Hill"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "59.934763", "lon": "30.34309" },
-      "esid": "d186c455-d8f6-4f94-a61d-51557f16fb8f",
-      "excerpt": "The magnificently restored Shuvalovsky Palace is home to the world's largest collection of pieces manufactured by the jeweller Peter Carl Fabergé …",
+      "coordinates": {
+        "lat": "19.887535",
+        "lon": "86.095047"
+      },
+      "esid": "373f72ee-dbc5-4205-b5ea-adb72f11d8a6",
+      "excerpt": "**Description:** The Sun Temple at Konark is conceived as the cosmic chariot of the sun god Surya, with twelve pairs of stone wheels and seven horses.\n\n**History:** Built in the mid-13th century by King Narasimhadeva I of the Eastern Ganga dynasty.\n\n**Layout:** Oriented to the east, so the first rays of morning sun strike the main entrance.\n\n**Main Structure:** Although largely in ruins, the remaining jagamohana (assembly hall) showcases intricate carvings.\n\n**Stone Wheels:** Each 3 m diameter wheel is a sundial, its spokes marking the hours of the day.\n\n**Horses:** Seven life-size stone horses are depicted drawing the chariot, symbolizing days of the week.\n\n**Architecture:** Exemplifies Kalinga style with elaborate sculptures of deities, dancers, animals, and erotic scenes.\n\n**Erotic Carvings:** Part of the Mahabharata-inspired friezes, celebrating life and fertility.\n\n**Surveillance Tower:** Once used by priests to observe the sunrise and conduct rituals.\n\n**Khakhara Style Sanctum:** Originally housed the main sanctum, now lost to time and decay.\n\n**Conservation:** 19th-century British restorations and 20th-century ASI efforts stabilized remaining structures.\n\n**UNESCO Status:** Inscribed as a World Heritage Site in 1984 for its architectural mastery.\n\n**Cultural Impact:** Inspired art, literature, and modern architectural motifs across India.\n\n**Light & Sound Show:** Evening performances narrate the temple’s history with dramatic lighting.\n\n**Visitor Centre:** Exhibit galleries explain the temple’s iconography and construction techniques.\n\n**Photography Tips:** Late afternoon light accentuates the relief work on the wheels and walls.\n\n**Festivals:** Chandrabhaga Mela in February draws thousands for rituals at the nearby Chandrabhaga River.\n\n**Accessibility:** Pathways with gentle ramps facilitate access for visitors with mobility needs.\n\n**Local Crafts:** Nearby markets sell Konark stone replicas and appliqué work typical of Odisha.\n\n**Admission:** Ticket includes temple complex and visitor centre; discounts for students.\n\n**Opening Hours:** Sunrise to sunset; light show timings vary seasonally.\n\n**How_to_get_there:** 35 km from Puri by road; frequent buses and private taxis available.\n\n**Coordinates:** 19.8876 N, 86.0940 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "Faberge egg at the Faberge Museum in Saint Petersburg.",
-          "url": "https://lp-cms-production.imgix.net/2023-06/shutterstockeditorial1292364130.jpg"
+          "alt": "Carved wheel of the Sun Temple at Konark.",
+          "url": "https://lp-cms-production.imgix.net/2019-06/8bba574647cc18bd6aad03fa7645fdd5-sun-temple.jpg"
         }
       ],
       "meta": {
@@ -568,25 +216,31 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/historic-heart/attractions/faberge-museum/a/poi-sig/1494094/1336038",
-      "title": "Fabergé Museum"
+      "places": [
+        {
+          "title": "Odisha"
+        }
+      ],
+      "slug": "india/orissa/konark/attractions/sun-temple/a/poi-sig/1150358/356438",
+      "title": "Sun Temple"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "55.750925573598", "lon": "37.617090940475" },
-      "esid": "e47d240c-d55b-4884-8860-b95cb7ced6c4",
-      "excerpt": "On the northern side of Sobornaya pl, with five golden helmet domes and four semicircular gables, the Assumption Cathedral is the focal church of pre…",
+      "coordinates": {
+        "lat": "9.9195",
+        "lon": "78.119273"
+      },
+      "esid": "5680972e-28bf-4b49-8e6f-fa103141dcc5",
+      "excerpt": "**Description:** The Meenakshi Amman Temple is the colorful abode of the triple-breasted warrior goddess Meenakshi and her consort Sundareshwara (Shiva).\n\n**History:** References date back to the 6th century; current structure largely built by Nayak king Tirumala in the 16th century.\n\n**Gopurams:** Four towering entrance gateways covered in thousands of stucco figures depicting gods, demons, and mythical creatures.\n\n**Golden Lotus Tank:** Central temple tank where daily rituals and festivals like Float Festival take place.\n\n**Hall of a Thousand Pillars:** A breathtaking mandapa with intricately carved columns, each uniquely sculpted.\n\n**Inner Sanctum:** The sanctum sanctorum houses the idols of Meenakshi and Sundareshwara facing each other across a corridor.\n\n**Temple Architecture:** Dravidian style with a cruciform layout, concentric prakarams (corridors), and ornate mandapas.\n\n**Sculptural Detail:** Walls and pillars adorned with carvings of dancers, musicians, and scenes from Shaiva and Vaishnava lore.\n\n**Temple Tank:** Potramarai Kulam, the sacred lotus pond, where devotees perform ablutions.\n\n**Annual Festival:** The 10-day Meenakshi Thirukalyanam festival celebrates the divine wedding with grand processions.\n\n**Daily Rituals:** Six daily poojas mark the goddess’s worship, accompanied by musicians and bell-ringing.\n\n**Cultural Hub:** Centre for Tamil music, dance, and classical arts, hosting performances throughout the year.\n\n**Conservation:** Archaeological Survey of India and temple authorities collaborate on restoration of murals and sculptures.\n\n**Visitor Etiquette:** Modest dress required; remove footwear before entering inner precincts.\n\n**Photography:** Allowed only in outer courtyards; sacred sanctum restricted to worshippers.\n\n**Accessibility:** Ramps installed at main entrances; volunteers assist elderly and differently-abled visitors.\n\n**Nearby Attractions:** Thirumalai Nayak Palace and Gandhi Memorial Museum within walking distance.\n\n**Dining:** Street stalls around the temple sell traditional Madurai jigarthanda and parotta.\n\n**Admission:** No entry fee; voluntary donations accepted for temple upkeep.\n\n**Opening Hours:** 5:00 AM–12:30 PM and 4:00 PM–10:00 PM daily.\n\n**How_to_get_there:** 2 km from Madurai Junction Railway Station; auto-rickshaws and taxis plentiful.\n\n**Coordinates:** 9.9197 N, 78.1194 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "Exterior of Assumption Cathedral, Kremlin.",
-          "url": "https://lp-cms-production.imgix.net/2019-06/60a52f6e5f457fa3a57a474cb6782349c193d174edb9613ad8a01f3d2c9eeb3d.jpg"
+          "alt": "Asura on Madurai Temple Gopuram",
+          "url": "https://lp-cms-production.imgix.net/2019-06/01f5a503545550ea4de3680babe44e22-meenakshi-amman-temple.jpg"
         }
       ],
       "meta": {
         "__typename": "PoiMetadata",
-        "isTopChoice": false,
+        "isTopChoice": true,
         "type": {
           "__typename": "PoiType",
           "displayName": "Attractions",
@@ -594,51 +248,31 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "Moscow" }],
-      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/assumption-cathedral/a/poi-sig/373679/1336043",
-      "title": "Assumption Cathedral"
-    },
-    {
-      "__typename": "Poi",
-      "coordinates": { "lat": "55.825346", "lon": "37.635984" },
-      "esid": "efa495cf-b9bc-4bf4-b265-e47ac9704295",
-      "excerpt": "Palaces for workers! There is no better place to see this Soviet slogan put into practice than at VDNKh, which stands for Exhibition of Achievements of…",
-      "images": [
+      "places": [
         {
-          "__typename": "Image",
-          "alt": "Golden statue in Friendship of the People Fountain at VDNKh (trade fair and amusement park).",
-          "url": "https://lp-cms-production.imgix.net/2019-06/5d1f7b607a2d2dd1b4745e5829628ea3e0cf107c37cd69f12d7020d050216ee1.jpg"
+          "title": "Madurai"
         }
       ],
-      "meta": {
-        "__typename": "PoiMetadata",
-        "isTopChoice": false,
-        "type": {
-          "__typename": "PoiType",
-          "displayName": "Attractions",
-          "slug": "attractions",
-          "title": "See"
-        }
-      },
-      "places": [{ "__typename": "Place", "title": "Moscow" }],
-      "slug": "russia/moscow/tverskoy-novoslobodsky/attractions/vdnkh/a/poi-sig/373665/1336044",
-      "title": "VDNKh"
+      "slug": "india/tamil-nadu/madurai/attractions/meenakshi-amman-temple/a/poi-sig/478720/356498",
+      "title": "Meenakshi Amman Temple"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "59.94320053", "lon": "30.3405451" },
-      "esid": "83a900de-867d-4a3c-8fab-bd657e8bdfc9",
-      "excerpt": "Also known as the Stieglitz Museum, this fascinating establishment is as beautiful as you would expect a decorative arts museum to be. An array of…",
+      "coordinates": {
+        "lat": "31.619949",
+        "lon": "74.876547"
+      },
+      "esid": "293e23b8-5ccc-456b-9502-511ee0386b05",
+      "excerpt": "**Description:** The Harmandir Sahib, known as the Golden Temple, is the spiritual heart of Sikhism, clad in gold leaf and surrounded by a sacred pool.\n\n**History:** Founded in 1581 by Guru Ram Das and completed in 1604 under Guru Arjan Dev; gold plating added in the 19th century.\n\n**Sanctum:** The central shrine floats on the Amrit Sarovar, symbolizing the equality of all believers.\n\n**Causeway:** A marble walkway links the temple to the parikrama (circumambulatory path) around the sarovar.\n\n**Architecture:** Fusion of Islamic, Hindu, and Sikh styles, with a gilded dome and white marble lower level inlaid with pietra dura.\n\n**Adi Granth:** The Guru Granth Sahib, Sikhism’s holy scripture, is ceremoniously installed and recited daily.\n\n**Langar Hall:** One of the world’s largest community kitchens serves free meals to tens of thousands of visitors daily.\n\n**Amrit Sarovar:** The holy tank whose waters are believed to have healing properties.\n\n**Nishan Sahib:** The saffron flag atop a 30 m flagpole signals the presence of the gurdwara.\n\n**Pilgrimage:** Devotees bathe in the sarovar before entering the sanctum to pay respects.\n\n**Daily Routine:** Scripture recitations begin at dawn; prayers and kirtan (sacred music) continue throughout the day.\n\n**Festivals:** Vaisakhi and Gurpurab attract millions, with the temple illuminated and processions in the city.\n\n**Conservation:** Shiromani Gurdwara Parbandhak Committee oversees upkeep; gold leaf replaced periodically.\n\n**Photography:** Permitted outside sanctum; head coverings and modest attire required.\n\n**Etiquette:** Remove shoes, wash hands and feet, cover head, and maintain silence inside the parikrama.\n\n**Accessibility:** Ramps and wheelchairs available; volunteers assist visitors with special needs.\n\n**Nearby Sites:** Jallianwala Bagh and Partition Museum a short walk from the temple complex.\n\n**Dining Tip:** Try the sweet seviyan (vermicelli pudding) served in the langar.\n\n**Admission:** Free entry; donations accepted for community service.\n\n**Opening Hours:** Open 24 hours; shrine closes briefly between 10:00 PM–4:00 AM for cleaning.\n\n**How_to_get_there:** 2 km from Amritsar Railway Station; cycle rickshaws and taxis readily available.\n\n**Coordinates:** 31.6200 N, 74.8765 E.",
       "images": [
         {
-          "__typename": "Image",
           "alt": null,
-          "url": "https://lp-cms-production.imgix.net/2019-06/f779321da24f66ed7b19fda79e7e6140-museum-of-decorative-applied-arts.jpg"
+          "url": "https://lp-cms-production.imgix.net/2020-12/shutterstock_113848504Unidentifiable%20Sikh%20Nihang%20warrior%20meditating%20at%20Seekh%20temple%20Golden%20Temple%20%28Harmandir%20Sahib%29.%20Amritsar%2C%20India.jpg"
         }
       ],
       "meta": {
         "__typename": "PoiMetadata",
-        "isTopChoice": false,
+        "isTopChoice": true,
         "type": {
           "__typename": "PoiType",
           "displayName": "Attractions",
@@ -646,25 +280,31 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/smolny-vosstaniya/attractions/museum-of-decorative-applied-arts/a/poi-sig/1473776/1336039",
-      "title": "Museum of Decorative \u0026 Applied Arts"
+      "places": [
+        {
+          "title": "Amritsar"
+        }
+      ],
+      "slug": "india/punjab-and-haryana/amritsar/attractions/golden-temple/a/poi-sig/1150764/356445",
+      "title": "Golden Temple"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "59.93588376", "lon": "30.34650458" },
-      "esid": "0e5439e4-ea59-4a9f-97ee-1a3a377fb53d",
-      "excerpt": "Housed in the south wing of the Sheremetyev Palace, this touching and fascinating literary museum celebrates the life and work of Anna Akhmatova, St…",
+      "coordinates": {
+        "lat": "28.522192",
+        "lon": "77.189308"
+      },
+      "esid": "02c7d928-f9a0-4ccf-8f63-af8b397673f0",
+      "excerpt": "**Description:** Spanning 200 ha of forested land, Mehrauli Archaeological Park houses over 440 monuments dating from the 10th century to the British era.\n\n**Key Monument:** Dilkhusha, the tomb of Muhammad Quli Khan, stands as a testament to Mughal funerary architecture.\n\n**Qutub Complex:** Includes the Qutub Minar and Quwwat-ul-Islam Mosque, foundations of Delhi’s Islamic heritage.\n\n**Tomb of Balban:** A 13th-century octagonal tomb representing early Indo-Islamic design.\n\n**Jahaz Mahal:** A double-storeyed pleasure palace resembling a ship, built in 1452 by Sultan Ghiyas-ud-din Khilji.\n\n**Zafar Mahal:** The last monument, an 18th-century palace built by Bahadur Shah Zafar’s daughter, Pairawan.\n\n**Jamali Kamali Mosque:** A 16th-century mosque adjacent to a Sufi tomb, noted for its fine marble screens.\n\n**Rajon Ki Baoli:** A stepwell with ornate arched niches, used as a public water source in the 16th century.\n\n**Iron Pillar:** Erected around 402 CE by Chandragupta II, renowned for its rust-resistant composition.\n\n**Gandhak ki Baoli:** A sulphur-water stepwell still used by locals.\n\n**Architectural Styles:** Ranges from Tughlaq and Lodhi to Mughal and Rajput influences.\n\n**Wildlife & Flora:** The park’s trees and shrubs support migratory birds, butterflies, and small mammals.\n\n**Guided Tours:** ASI-led walks reveal hidden tombs, mosques, and ruined palaces.\n\n**Photography:** Early morning light filters through ruins, ideal for atmospheric shots.\n\n**Conservation:** Restoration efforts tackle overgrown vegetation and structural stabilization.\n\n**Visitor Amenities:** On-site information kiosks, benches, and restroom facilities.\n\n**Local Artisans:** Nearby villages offer pottery, textiles, and crafts inspired by the monuments.\n\n**Entry Fee:** Nominal charge; free for children under 15 and ASI members.\n\n**Opening Hours:** Sunrise to sunset daily; no entry after dark.\n\n**How_to_get_there:** 5 km from Qutub Minar Metro Station; accessible by auto-rickshaw or cycle rickshaw.\n\n**Coordinates:** 28.5244 N, 77.1843 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "Anna Akhmatova Museum, housed in the south wing of the Sheremetyev Palace.",
-          "url": "https://lp-cms-production.imgix.net/2023-05/LPL-AnnaAkhmatovaMuseum.jpg"
+          "alt": "Dilkhusha (Tomb of Muhammad Quli Khan)",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-183988214_high.jpg"
         }
       ],
       "meta": {
         "__typename": "PoiMetadata",
-        "isTopChoice": false,
+        "isTopChoice": true,
         "type": {
           "__typename": "PoiType",
           "displayName": "Attractions",
@@ -672,25 +312,31 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/smolny-vosstaniya/attractions/anna-akhmatova-museum-at-the-fountain-house/a/poi-sig/1120017/1336039",
-      "title": "Anna Akhmatova Museum at the Fountain House"
+      "places": [
+        {
+          "title": "Delhi"
+        }
+      ],
+      "slug": "india/delhi/greater-delhi-gurgaon-gurugram/attractions/mehrauli-archaeological-park/a/poi-sig/1285212/1341133",
+      "title": "Mehrauli Archaeological Park"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "55.750176842193", "lon": "37.617863416672" },
-      "esid": "f6e67f47-fa78-4d8a-8ee2-0ac85c28c452",
-      "excerpt": "The Archangel Cathedral at the southeastern corner of Sobornaya pl was for centuries the coronation, wedding and burial church of tsars. It was built by…",
+      "coordinates": {
+        "lat": "22.28036",
+        "lon": "80.630894"
+      },
+      "esid": "770bccdc-ef24-40ae-95b4-60a2caeaa4ae",
+      "excerpt": "**Description:** Kanha Tiger Reserve is India’s largest national park, renowned for its thriving Bengal tiger population and diverse habitats.\n\n**History:** Declared a national park in 1955; designated Project Tiger reserve in 1974.\n\n**Landscape:** Comprises sal and bamboo forests, grasslands, and riverine ecosystems spread over 2,067 km².\n\n**Flora:** Sal trees dominate the southern tract; bamboo brakes and meadows harbor herbivores like barasingha.\n\n**Fauna:** Home to Bengal tigers, leopards, wild dogs, sloth bears, gaur, and over 300 bird species.\n\n**Barasingha Rescue:** Kanha’s conservation of the swamp deer (barasingha) is a global success story.\n\n**Safari Zones:** Five zones (Banjaar, Sillari, Kanha, Kisli, Sarhi) offer jeep safaris and elephant rides.\n\n**Guided Safaris:** Morning and evening safaris led by trained forest guides and naturalists.\n\n**Canine Sightings:** Wild dog packs (dholes) are often spotted hunting in open grasslands.\n\n**Birdwatching:** Paradise flycatchers, peafowl, and hornbills frequent the park’s riverside trails.\n\n**Landscape Photography:** The rolling meadows and ancient Sal trees create iconic scenes.\n\n**Conservation Efforts:** Anti-poaching patrols, habitat restoration, and community outreach programs.\n\n**Eco-Lodges:** Jungle lodges and resorts offer comfortable stays with locally sourced cuisine.\n\n**Visitor Centre:** Exhibits on biodiversity, conservation challenges, and tribal communities.\n\n**Best Time to Visit:** October to June; park closed monsoon (July–September).\n\n**Local Culture:** Tribal villages (Baigas, Gonds) offer insights into traditional forest-based livelihoods.\n\n**Rules & Regulations:** Strict entry quotas; no entry without authorized permit and guide.\n\n**Park Fees:** Differential fees for domestic and international visitors; vehicle charges apply.\n\n**Photography Permits:** Separate permits required for professional equipment.\n\n**Nearby Attractions:** Maow Bhanjang viewpoint and Kanha Museum of Natural History.\n\n**How_to_get_there:** 35 km from Jabalpur Airport; road access via Mandla and Baikunthpur.\n\n**Coordinates:** 22.3345 N, 80.6116 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "Lantern detail at Cathedral of Christ the Saviour.",
-          "url": "https://lp-cms-production.imgix.net/2019-06/c0a68a0328a474a401ee89fb55c1a8a9540c32fbc66007806de142f5fc2a57f0.jpg"
+          "alt": "Kanha National Park, Madhya Pradesh, India, Asia, Indian Sub-Continent",
+          "url": "https://lp-cms-production.imgix.net/2020-11/5d2da689a23742f141421bd125e5b571-kanha-tiger-reserve.jpg"
         }
       ],
       "meta": {
         "__typename": "PoiMetadata",
-        "isTopChoice": false,
+        "isTopChoice": true,
         "type": {
           "__typename": "PoiType",
           "displayName": "Attractions",
@@ -698,25 +344,31 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "Moscow" }],
-      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/archangel-cathedral/a/poi-sig/373675/1336043",
-      "title": "Archangel Cathedral"
+      "places": [
+        {
+          "title": "Madhya Pradesh & Chhattisgarh"
+        }
+      ],
+      "slug": "india/madhya-pradesh-and-chhattisgarh/attractions/kanha-tiger-reserve/a/poi-sig/1294450/356357",
+      "title": "Kanha Tiger Reserve"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "55.750053058601", "lon": "37.616924643516" },
-      "esid": "214af9bc-8d5a-4e6a-bbf0-e0c108bfa420",
-      "excerpt": "The Annunciation Cathedral, at the southwest corner of Sobornaya pl, contains impressive murals in the gallery and an archaeology exhibit in the basement…",
+      "coordinates": {
+        "lat": "26.87042",
+        "lon": "80.913448"
+      },
+      "esid": "4f02bebf-0837-48c9-8361-8ef34df4f62d",
+      "excerpt": "**Description:** The Bara Imambara is a vast Shiite mausoleum complex famed for its central hall—one of the world’s largest arched constructions without supporting beams.\n\n**History:** Commissioned in 1784 by Nawab Asaf-ud-Daula to provide employment during a devastating famine.\n\n**Architect:** Designed by Kifayatullah, a local architect, blending Mughal and Persian styles.\n\n**Central Hall:** Measures 50 m in length, 16 m in height, and 15 m in width, with no beams supporting the arched ceiling.\n\n**Bhool Bhulaiyaa:** A labyrinth of narrow corridors on the upper floors, creating a maze for visitors to explore.\n\n**Asfi Mosque:** Built within the complex, featuring twin minarets and marble domes.\n\n**Rumi Darwaza:** The iconic gateway inspired by Istanbul’s Sublime Porte, standing 18 m tall.\n\n**Shahi Baoli:** A historic stepwell providing water to the complex, with ornate arched alcoves.\n\n**Imambara Grounds:** Landscaped gardens and ponds providing a tranquil setting.\n\n**Architectural Features:** Decorative plasterwork, keystone arches, and stucco ornamentation.\n\n**Spiritual Significance:** Hosts Muharram processions and Majlis gatherings commemorating Imam Hussain.\n\n**Conservation:** Archaeological Survey of India maintains the structure and conducts periodic restorations.\n\n**Visitor Tips:** Guided tours help navigate the maze and explain architectural marvels.\n\n**Photography:** Best from the Rumi Darwaza looking into the courtyard.\n\n**Accessibility:** Gentle ramps at main entrances; some corridor areas are narrow.\n\n**Admission:** Modest entry fee; free for children under 5 and students.\n\n**Opening Hours:** 6:00 AM–6:00 PM daily.\n\n**Nearby Sights:** Chota Imambara and Husainabad Clock Tower within walking distance.\n\n**How_to_get_there:** 2 km from Charbagh Railway Station by rickshaw or taxi.\n\n**Coordinates:** 26.8504 N, 80.9159 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "Close up view of Annunciation Cathedral cupola",
-          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-517015357_super.jpg"
+          "alt": "Lucknow , Bada Imambara",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-169680193_high.jpg"
         }
       ],
       "meta": {
         "__typename": "PoiMetadata",
-        "isTopChoice": false,
+        "isTopChoice": true,
         "type": {
           "__typename": "PoiType",
           "displayName": "Attractions",
@@ -724,25 +376,31 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "Moscow" }],
-      "slug": "russia/moscow/kremlin-kitay-gorod/attractions/annunciation-cathedral/a/poi-sig/373671/1336043",
-      "title": "Annunciation Cathedral"
+      "places": [
+        {
+          "title": "Lucknow"
+        }
+      ],
+      "slug": "india/uttar-pradesh/lucknow/attractions/bara-imambara/a/poi-sig/1151689/356515",
+      "title": "Bara Imambara"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "59.939074496212", "lon": "30.29608535839" },
-      "esid": "03c1d61c-3cfd-4833-b554-5ca49d519563",
-      "excerpt": "The first stone building in the city, the Menshikov Palace was built to the grandiose tastes of Prince Alexander Menshikov, Peter the Great’s closest…",
+      "coordinates": {
+        "lat": "17.38447",
+        "lon": "78.402171"
+      },
+      "esid": "667c3d84-f9a6-40bf-82cd-ee0d93eed13d",
+      "excerpt": "**Description:** Golconda Fort is a monumental fortress complex on Hyderabad’s western edge, famed for its acoustics and diamond trade legacy.\n\n**History:** Originates in the 12th century; expanded by the Qutb Shahi dynasty between the 16th and 17th centuries.\n\n**Layout:** Spread across four concentric fortification walls, with eight gateways and 87 bastions.\n\n**Acoustic Marvel:** A clap at the fort’s entrance can be heard at the Bala Hisar Pavilion atop the hill, 1 km away.\n\n**Bala Hisar Pavilion:** The royal audience hall offers panoramic views of the Deccan plateau.\n\n**Diamond Legacy:** Nearby mines produced famed gems like the Koh-i-Noor and Hope diamonds.\n\n**Baradari:** The twelve-doored pavilion used for royal festivities and announcements.\n\n**Mosque & Quranic Inscription:** A small mosque with the Quran’s entire text inscribed on its walls.\n\n**Rani Mahal:** The Queen’s Palace known for its ornate interiors and smooth granite floors.\n\n**Waterworks:** Ingenious rainwater harvesting and aqueduct systems supplied water to the hilltop citadel.\n\n**Sound & Light Show:** Evening performances dramatize the fort’s history with audio narration and lighting.\n\n**Architecture:** Blends Persian, Turkish, and Indian elements with intricately carved stone screens.\n\n**Conservation:** Archaeological Survey of India’s efforts focus on structural stabilization and graffiti removal.\n\n**Visitor Amenities:** On-site museum, interpretive panels, and shaded rest areas.\n\n**Photography Tips:** Sunrise and sunset highlight the fort’s rugged silhouette.\n\n**Entry Fee:** Separate tickets for day entry and night show; concessions for children and seniors.\n\n**Opening Hours:** 9:00 AM–5:30 PM; light show at 6:30 PM (timing varies seasonally).\n\n**Rules:** No littering; restricted areas marked for safety.\n\n**Nearby Attractions:** Qutb Shahi Tombs and Hussain Sagar Lake a short drive away.\n\n**How_to_get_there:** 11 km from Hyderabad city center; taxis and app cabs readily available.\n\n**Coordinates:** 17.3833 N, 78.4011 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "Menshikov Palace.",
-          "url": "https://lp-cms-production.imgix.net/2019-06/1ae0e2eb62bf8be4812312fa96fdb63defe15af6d66a705a8ba8728b9b33c566.jpg"
+          "alt": "Interior of royal bath",
+          "url": "https://lp-cms-production.imgix.net/2019-06/5567674f4890bf91e90f80af7c9e5f5b-golconda-fort.jpg"
         }
       ],
       "meta": {
         "__typename": "PoiMetadata",
-        "isTopChoice": false,
+        "isTopChoice": true,
         "type": {
           "__typename": "PoiType",
           "displayName": "Attractions",
@@ -750,25 +408,31 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/vasilyevsky-island/attractions/menshikov-palace/a/poi-sig/374447/1336041",
-      "title": "Menshikov Palace"
+      "places": [
+        {
+          "title": "Hyderabad"
+        }
+      ],
+      "slug": "india/andhra-pradesh/hyderabad-and-secunderabad/attractions/golconda-fort/a/poi-sig/1152888/356204",
+      "title": "Golconda Fort"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "55.519181", "lon": "35.827403" },
-      "esid": "0624d4e6-d27d-4917-ba95-69091ca3f011",
-      "excerpt": "The entire battlefield – more than 100 sq km – is now part of the Borodino Field Museum-Preserve, its vast fields dotted with dozens of memorials to…",
+      "coordinates": {
+        "lat": "24.577168",
+        "lon": "73.683586"
+      },
+      "esid": "15f7ed68-8ddb-4504-8703-41b9981b84da",
+      "excerpt": "**Description:** The City Palace Museum occupies the main section of Udaipur’s City Palace, overlooking Lake Pichola with an opulent display of royal artifacts.\n\n**History:** Built by Maharana Udai Singh II starting in 1559 and expanded by successors over nearly four centuries.\n\n**Exterior Façade:** Features balconies, towers, and cupolas in ivory-white and pale yellow hues stretching 244 m along the lake.\n\n**Mor Chowk:** The Peacock Courtyard adorned with mosaics of colored glass set in marble tiles.\n\n**Sheesh Mahal:** The Mirror Palace with intricate glasswork creating dazzling reflections.\n\n**Zenana Mahal:** The Women’s Quarters, now housing royal costumes and household items.\n\n**Tripolia Gate:** A triple-arched gateway leading into the inner palace complex.\n\n**Crystal Gallery:** A recently opened exhibition of chandeliers, Venetian glass, and fine crystal served at royal banquets.\n\n**Vintage Car Collection:** A display of classic Rolls-Royce, Cadillac, and Daimler cars owned by the Maharajas.\n\n**Armory:** Showcases swords, daggers, chain mail, and weapons spanning Rajput history.\n\n**Imperial Halls:** Include the Bara Mandir and Durbar Hall with frescoed ceilings and stained-glass windows.\n\n**Boat Ride Access:** Private jetty allows entry by boat, offering a scenic approach across Lake Pichola.\n\n**Architecture:** A fusion of Rajasthani and Mughal elements with European influences evident in stained glass.\n\n**Conservation:** Maharana of Mewar Charitable Foundation oversees preservation and guided tours.\n\n**Visitor Services:** On-site café, souvenir shop, and audio guides in multiple languages.\n\n**Photography Tips:** Early morning light brings out pastel hues; dusk views from Jag Mandir add drama.\n\n**Admission:** Combined ticket covers palace museum and Crystal Gallery; discounts for students.\n\n**Opening Hours:** 9:30 AM–5:30 PM daily.\n\n**Rules:** No flash photography in galleries; respectful attire required.\n\n**Nearby Attractions:** Jagdish Temple, Lake Palace, and Bagore Ki Haveli within walking distance.\n\n**How_to_get_there:** 2 km from Udaipur City Railway Station; auto-rickshaws and taxis available.\n\n**Coordinates:** 24.5767 N, 73.6803 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "Stone monument in Borodino field, Russia.",
-          "url": "https://lp-cms-production.imgix.net/2023-05/iStock-1440032737.jpg"
+          "alt": "Udaipur, Rajasthan, India",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-539641373_full.jpg"
         }
       ],
       "meta": {
         "__typename": "PoiMetadata",
-        "isTopChoice": false,
+        "isTopChoice": true,
         "type": {
           "__typename": "PoiType",
           "displayName": "Attractions",
@@ -776,25 +440,159 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "Moscow" }],
-      "slug": "russia/borodino/attractions/borodino-field/a/poi-sig/1478492/360417",
-      "title": "Borodino Field"
+      "places": [
+        {
+          "title": "Udaipur"
+        }
+      ],
+      "slug": "india/rajasthan/udaipur/attractions/city-palace-museum/a/poi-sig/449491/356462",
+      "title": "City Palace Museum"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "59.93947448", "lon": "30.31414525" },
-      "esid": "0361231d-f436-4a8f-8bd2-b5f7aafcca53",
-      "excerpt": "This vast expanse is simply one of the most striking squares in the world, still redolent of imperial grandeur almost a century after the end of the…",
+      "coordinates": {
+        "lat": "22.632372",
+        "lon": "88.356879"
+      },
+      "esid": "67c34d40-c8db-4f3f-bed8-171301388bfd",
+      "excerpt": "**Description:** Belur Math is the serene headquarters of the Ramakrishna Mission, set amid palm trees and manicured lawns on the Hoogly River’s west bank.\n\n**History:** Founded in 1897 by Swami Vivekananda as a monument to his guru, Sri Ramakrishna Paramahamsa.\n\n**Architectural Synthesis:** Combines Hindu, Christian, Islamic, and Buddhist motifs symbolizing religious unity.\n\n**Main Temple:** Features a tripartite dome reflecting the Deoghar, Udayagiri, and Jagannath Puri temples.\n\n**Temple Complex:** Includes Vivekananda’s house, meditation hall, and memorial shrines.\n\n**Ramakrishna Shrine:** Preserves relics and personal effects of Sri Ramakrishna.\n\n**Vivekananda House:** Contains a museum with photographs, letters, and memorabilia of Swami Vivekananda.\n\n**Meditation Garden:** Lush grounds provide a tranquil space for contemplation and spiritual practice.\n\n**Daily Worship:** Morning and evening rituals with devotional chanting, music, and readings from the Gospels.\n\n**Festivals:** Celebrates Rath Yatra, Durga Puja, and Swami Vivekananda’s birth anniversary with grandeur.\n\n**Education Centre:** Belur Math runs schools, colleges, and vocational training institutes across India.\n\n**Philanthropy:** Engages in disaster relief, healthcare, and rural development initiatives.\n\n**Visitor Etiquette:** Modest dress, removal of shoes, and quiet reflection in designated areas.\n\n**Photography:** Permitted in exteriors; interior sanctum photography restricted.\n\n**Accessibility:** Ramps and paved paths facilitate access for wheelchair users.\n\n**Accommodation:** Simple guest rooms available for devotees and visitors on prior booking.\n\n**Café & Bookshop:** Serve refreshments and sell books on Vedanta, spirituality, and Indian culture.\n\n**Admission:** Free entry; donations accepted to support mission activities.\n\n**Opening Hours:** 6:00 AM–8:00 PM daily; shrine closes briefly for rituals.\n\n**How_to_get_there:** 13 km northwest of Kolkata; regular ferry services from Bagbazar Ghat or road access by taxi.\n\n**Coordinates:** 22.6065 N, 88.3292 E.",
       "images": [
         {
-          "__typename": "Image",
+          "alt": "Belur Math in Calcutta, West Bengal, India. (Photo by: IndiaPictures/UIG via Getty Images)",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-170975358_master.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Kolkata (Calcutta)"
+        }
+      ],
+      "slug": "india/kolkata-calcutta/attractions/belur-math/a/poi-sig/410820/356356",
+      "title": "Belur Math"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "20.721438",
+        "lon": "86.869583"
+      },
+      "esid": "a15a8ee0-d4e8-45fa-bdc3-8deefff7cf4c",
+      "excerpt": "**Description:** Three rivers flow out to sea at Bhitarkanika, forming India’s second-largest mangrove region, rich in creeks and tidal forests.\n\n**History:** Declared a wildlife sanctuary in 1975 and a Ramsar site in 2002 to protect its unique estuarine ecosystem.\n\n**Flora:** Dense mangroves of *Avicennia* and *Rhizophora* species, interspersed with nipa palms and salt-tolerant grasses.\n\n**Fauna:** Home to saltwater crocodiles, Indian pythons, spotted deer, and over 200 bird species, including migratory pelicans.\n\n**Conservation:** Project Croc under the Odisha Forest Department monitors nesting sites and conducts anti-poaching patrols.\n\n**Activities:** Boat safaris through the creeks at dawn offer wildlife-spotting opportunities and birdwatching.\n\n**Visitor Centre:** Exhibits on mangrove ecology, crocodile biology, and local fishing communities’ traditions.\n\n**Local Culture:** Nearby villages of fishermen and honey collectors showcase sustainable use of forest resources.\n\n**Photography Tips:** Early morning mist and backlit mangrove roots create dramatic silhouette shots.\n\n**Best Time:** October to March, when water levels are navigable and migratory birds are present.\n\n**Accessibility:** Motorboat launches from Dangamal jetty; park roads are unpaved and require a guide.\n\n**Accommodation:** Eco-lodges and forest rest houses offer basic amenities within the sanctuary buffer.\n\n**Rules:** No littering, maintain distance from wildlife, and follow boat speed limits to protect waterways.\n\n**How_to_get_there:** 30 km from Kendrapara by road; taxis to Dangamal then forest department boats.\n\n**Coordinates:** 20.7172 N, 86.8889 E.",
+      "images": [
+        {
+          "alt": "Large saltwater crocodile basking on an estuarine mudbank, Bhitarkanika National Park.",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-148896220_high.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Odisha"
+        }
+      ],
+      "slug": "india/orissa/northeastern-orissa/attractions/bhitarkanika-wildlife-sanctuary/a/poi-sig/1150438/356433",
+      "title": "Bhitarkanika Wildlife Sanctuary"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "26.859452",
+        "lon": "88.261027"
+      },
+      "esid": "ced5f780-1d55-4c10-bff5-8385328e8812",
+      "excerpt": "**Description:** Makaibari is a celebrated organic Darjeeling tea estate, famed for biodynamic farming and centuries-old tea bushes.\n\n**History:** Established in 1859; adopted organic and biodynamic practices in the 1980s under the Goenka family.\n\n**Plantation:** Spreads over 750 acres at 1,200–2,000 m elevation, nurturing first-flush teas with complex muscatel notes.\n\n**Processing:** Guided tours of the factory demonstrate withering, rolling, oxidation, and hand-sorting techniques.\n\n**Tea Garden Walks:** Guided treks through terraced fields reveal traditional Nepalese tea-pickers at work.\n\n**Tasting Room:** Sample rare teas such as Silver Tips, Autumn Flush, and exclusive charity blends.\n\n**Sustainability:** Implements rainwater harvesting, vermicomposting, and solar power to minimize carbon footprint.\n\n**Community:** Supports local schools, health clinics, and skill training for workers’ families.\n\n**Cultural Insight:** Festivals like Baisakhi see workers celebrating with song, dance, and communal feasting.\n\n**Photography Tips:** Mist-shrouded terraces at dawn capture the ethereal mountain ambience.\n\n**Best Time:** March–April for first flush; June for second flush; November for Autumn flush.\n\n**Accessibility:** Jeep or shared taxi from Darjeeling; steep, winding roads require experienced drivers.\n\n**Accommodation:** Homestays and heritage bungalows on-site bookable through estate office.\n\n**Rules:** Wear non-slip shoes on damp terraces; respect workers’ privacy during harvest.\n\n**How_to_get_there:** 18 km north of Darjeeling town via Singamari and Bijanbari road.\n\n**Coordinates:** 26.9660 N, 88.2300 E.",
+      "images": [
+        {
+          "alt": "Women plucking tea at Makaibari tea plantation, Darjeeling, West Bengal, India, Asia",
+          "url": "https://lp-cms-production.imgix.net/2019-06/7ee76927787b1ac3605d0ef0aa4c71dd-makaibari.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "West Bengal"
+        }
+      ],
+      "slug": "india/west-bengal/kurseong/attractions/makaibari/a/poi-sig/1284323/356543",
+      "title": "Makaibari"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "21.482862",
+        "lon": "71.794796"
+      },
+      "esid": "eb02ec5a-c79c-42f8-a48a-5affa71cbffc",
+      "excerpt": "**Description:** Shatrunjaya Hill is one of Jainism’s holiest pilgrimage sites, bristling with over 800 marble temples atop a granite hill.\n\n**History:** Pilgrimage traditions date to the 12th century; major renovations by the Solanki dynasty.\n\n**Temple Complex:** Divided into five clusters, each approached by grand marble stairways and ornate toranas (archways).\n\n**Accessibility:** 3,748 steps climb 600 m, with resting pavilions and dharamshalas every few hundred steps.\n\n**Main Shrines:** Adinath Temple (the principal shrine) and Pārśvanātha Temple shine with carved domes and pillars.\n\n**Architecture:** Māru-Gurjara style with exquisitely carved ceilings, pillars, and torana gates.\n\n**Festivals:** Mahavir Janma Kalyanak in April sees thousands of barefoot pilgrims carrying *kanwars* of offerings.\n\n**Scenic Views:** Panoramas of Palitana town and surrounding plains reward climbers at sunset.\n\n**Conservation:** Jain trusts oversee marble restoration and maintenance of climbing steps.\n\n**Local Crafts:** Artisans craft miniature marble idols and silver temple replicas in nearby bazaars.\n\n**Photography Tips:** Early morning light on white marble creates a luminous glow.\n\n**Rules:** Shoes prohibited above the base; conservative attire required.\n\n**How_to_get_there:** 55 km from Ahmedabad by road to Palitana; then stairs or ropeway (partial) to hilltop.\n\n**Coordinates:** 21.4700 N, 71.7900 E.",
+      "images": [
+        {
+          "alt": "x-default",
+          "url": "https://lp-cms-production.imgix.net/2019-06/188802b1417e9c9f5e32d9cc0ca5e4d3-shatrunjaya.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Gujarat & Diu"
+        }
+      ],
+      "slug": "india/gujarat/palitana/attractions/shatrunjaya/a/poi-sig/1154015/356255",
+      "title": "Shatrunjaya"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "23.721866",
+        "lon": "81.019481"
+      },
+      "esid": "b067262d-860c-498e-a8d3-a7044ac3bbab",
+      "excerpt": "**Description:** Bandhavgarh Tiger Reserve boasts the highest density of wild Bengal tigers in India, set within ancient sal forests.\n\n**History:** Declared a national park in 1968; Project Tiger reserve in 1993 to protect tigers and prey species.\n\n**Landscape:** Rolling hills, limestone ridges, and grasslands crisscrossed by seasonal streams.\n\n**Wildlife:** Bengal tigers, Indian leopards, sloth bears, spotted deer, sambar, and rich avifauna.\n\n**Safari Zones:** Five core zones—Magadhi, Tala, Bamera, Khitauli, and Panpatha—offer guided jeep and canter safaris.\n\n**Tiger Watching:** Early morning drives maximize tiger sighting chances with experienced trackers.\n\n**Birding:** Over 250 species including crested serpent eagle, Indian pitta, and paradise flycatcher.\n\n**Conservation Efforts:** Community-based anti-poaching units and habitat restoration projects.\n\n**Eco-Lodges:** Jungle camps blend sustainable design with traditional Gond architecture.\n\n**Visitor Centre:** Exhibits on tiger ecology, reserve history, and tribal cultures.\n\n**Best Time:** October to June (closed July–September monsoon). April–June is breeding season, ideal for sightings.\n\n**Guidelines:** Strict vehicle quotas, silent approach, and no off-road drives ensure minimal disturbance.\n\n**Local Communities:** Baiga and Gond villages offer cultural tours and tribal art demonstrations.\n\n**Photography Permits:** Required for professional equipment; tripod use regulated.\n\n**How_to_get_there:** 35 km from Umaria Railway Station or 180 km from Jabalpur by road.\n\n**Coordinates:** 23.6926 N, 81.0430 E.",
+      "images": [
+        {
           "alt": null,
-          "url": "https://lp-cms-production.imgix.net/2019-06/3daf8e0b359f6a4ab4b15d38db1abd6b-palace-square.jpg"
+          "url": "https://lp-cms-production.imgix.net/2020-11/4a86e6303066fe31ab77ce0eb44e4acc-bandhavgarh-tiger-reserve.jpg"
         }
       ],
       "meta": {
         "__typename": "PoiMetadata",
-        "isTopChoice": false,
+        "isTopChoice": true,
         "type": {
           "__typename": "PoiType",
           "displayName": "Attractions",
@@ -802,25 +600,31 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/historic-heart/attractions/palace-square/a/poi-sig/1480183/1336038",
-      "title": "Palace Square"
+      "places": [
+        {
+          "title": "Madhya Pradesh & Chhattisgarh"
+        }
+      ],
+      "slug": "india/madhya-pradesh-and-chhattisgarh/attractions/bandhavgarh-tiger-reserve/a/poi-sig/1155120/356357",
+      "title": "Bandhavgarh Tiger Reserve"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "62.04417", "lon": "129.624252" },
-      "esid": "f478ae44-71a5-42d4-b926-b7119cc868b9",
-      "excerpt": "At Permafrost Kingdom, two neon-lit tunnels burrowed into a permanently frozen hill have been filled with dozens of fabulous, never-melting ice sculptures…",
+      "coordinates": {
+        "lat": "18.96246752489",
+        "lon": "72.933082580566"
+      },
+      "esid": "6c4d790a-259d-4a9b-9290-e0ef6aa542b8",
+      "excerpt": "**Description:** Elephanta Island’s rock-cut cave temples on Gharapuri are a UNESCO World Heritage Site celebrating Shaiva art.\n\n**History:** Carved between the 5th and 8th centuries under the Kalachuri dynasty.\n\n**Main Cave:** Houses a 6 m high Trimurti relief of Shiva as creator, preserver, and destroyer.\n\n**Secondary Caves:** Smaller chapels with pillars, mandapas, and sculptures of gods and goddesses.\n\n**Sculptural Style:** Classical Gupta-period artistry with sensuous figures and elaborate iconography.\n\n**Boat Ride:** 1-hour ferry from Mumbai’s Gateway of India offers scenic views of the harbor.\n\n**Light & Sound Show:** Evening narration explains the caves’ history with dramatic illumination.\n\n**Conservation:** ASI-led efforts address erosion, salt damage, and graffiti removal.\n\n**Visitor Centre:** Interactive displays on cave architecture and excavation history.\n\n**Best Time:** October to March; avoid monsoon (June–September) when ferry services are suspended.\n\n**Rules:** No photography inside caves; maintain silence to preserve serenity.\n\n**Local Crafts:** Stalls sell replicas of cave sculptures and traditional Maharashtrian handicrafts.\n\n**Photography Tips:** Soft morning light penetrates cave mouth, highlighting relief contours.\n\n**How_to_get_there:** Ferries depart every 30 minutes from Apollo Bunder jetty; private boats available.\n\n**Coordinates:** 18.9637 N, 72.9319 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "Yakutsk, Russia - CIRCA 2017: The scenery inside Permafrost Kingdom, a tourist attraction in Yakutsk, Sakha Republic, Russia. It is an underground cave with a lot of ice statues and sculptures.",
-          "url": "https://lp-cms-production.imgix.net/2022-03/Russia%20Yakutsk%20Hani%20Santosa%20shutterstock_1476760115%20RFE.jpg"
+          "alt": "x-default",
+          "url": "https://lp-cms-production.imgix.net/2019-06/7cf88e3a963e2f90649ccb140ba834f9-elephanta-island.jpg"
         }
       ],
       "meta": {
         "__typename": "PoiMetadata",
-        "isTopChoice": false,
+        "isTopChoice": true,
         "type": {
           "__typename": "PoiType",
           "displayName": "Attractions",
@@ -828,25 +632,31 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "Yakutsk" }],
-      "slug": "russia/russian-far-east/yakutsk/attractions/permafrost-kingdom/a/poi-sig/1475709/360489",
-      "title": "Permafrost Kingdom"
+      "places": [
+        {
+          "title": "Mumbai (Bombay)"
+        }
+      ],
+      "slug": "india/mumbai-bombay/attractions/elephanta-island/a/poi-sig/386699/356405",
+      "title": "Elephanta Island"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "59.91652373", "lon": "30.30563502" },
-      "esid": "58986940-2957-40d4-8f32-12e04f99fed3",
-      "excerpt": "The Trinity Cathedral boasts stunning blue cupolas emblazoned with golden stars. A devastating fire in 2006 caused the 83m-high central cupola to collapse…",
+      "coordinates": {
+        "lat": "21.522987068503",
+        "lon": "70.470175713615"
+      },
+      "esid": "1861970f-8b8e-41c4-872c-bc92a6b7bfb2",
+      "excerpt": "**Description:** Uparkot Fort in Junagadh is an ancient citadel believed founded in 319 BC by the Mauryan emperor Chandragupta.\n\n**History:** Successively rebuilt by the Maitraka, Chudasama, and Mughal rulers; strategic hilltop stronghold.\n\n**Architecture:** Four concentric walls, seven gateways, and a 360 m long catacomb-like granary system.\n\n**Adi-Kadi Stepwell:** A 15 m deep shaft well with ornate balconies once used for water storage.\n\n**Navghan Kuvo:** A rock-cut well with a spiral staircase leading to groundwater levels.\n\n**Jumma Masjid:** 16th-century mosque built by Mahmud Begada within the fort precincts.\n\n**Girnar Viewpoint:** Ramparts offer sweeping vistas of Junagadh city and the Girnar Hills.\n\n**Conservation:** ASI restoration focuses on masonry repair and removal of later accretions.\n\n**Visitor Amenities:** Guided tours, on-site museum with artifacts, and shaded rest areas.\n\n**Best Time:** October to March; avoid summer heat and monsoon rains.\n\n**Photography Tips:** Early light on red sandstone walls enhances texture and color.\n\n**How_to_get_there:** 3 km from Junagadh Railway Station; auto‑rickshaws and cycle rickshaws available.\n\n**Coordinates:** 21.5188 N, 70.4653 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": null,
-          "url": "https://lp-cms-production.imgix.net/2019-06/4e12501d5e8b66b2b4b2bf830246ed92-trinity-cathedral.jpg"
+          "alt": "x-default",
+          "url": "https://lp-cms-production.imgix.net/2019-06/583b8fc86966e822a36bc46b484eb648-uparkot-fort.jpg"
         }
       ],
       "meta": {
         "__typename": "PoiMetadata",
-        "isTopChoice": false,
+        "isTopChoice": true,
         "type": {
           "__typename": "PoiType",
           "displayName": "Attractions",
@@ -854,25 +664,31 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/smolny-vosstaniya/attractions/trinity-cathedral/a/poi-sig/1480393/1336039",
-      "title": "Trinity Cathedral"
+      "places": [
+        {
+          "title": "Gujarat & Diu"
+        }
+      ],
+      "slug": "india/gujarat/junagadh/attractions/uparkot-fort/a/poi-sig/1154165/356254",
+      "title": "Uparkot Fort"
     },
     {
       "__typename": "Poi",
-      "coordinates": { "lat": "59.936440424186", "lon": "30.30211687088" },
-      "esid": "09ae506c-bd36-48fe-a42f-cfa6031b2e88",
-      "excerpt": "The most famous statue of Peter the Great was immortalised as the Bronze Horseman in the epic poem by Alexander Pushkin. With his horse (representing…",
+      "coordinates": {
+        "lat": "20.023708",
+        "lon": "75.179325"
+      },
+      "esid": "bd2e1be4-7571-4cc3-beef-1201359a269e",
+      "excerpt": "**Description:** Kailasa Temple at Ellora is a monolithic marvel carved from a single basalt cliff, resembling Mount Kailash.\n\n**History:** Commissioned by Rashtrakuta king Krishna I in the 8th century AD.\n\n**Architecture:** Excavated top-down, the temple features a 32 m high vimana, intricately carved pillars, and sculpted friezes.\n\n**Central Shrine:** Houses a massive Shiva Linga beneath a stone canopy supported by sixteen pillars.\n\n**Sculptural Program:** Panels depict the life of Shiva, stories from the *Ramayana* and *Mahabharata*, and courtly scenes.\n\n**Nandi Mandapa:** Stone pavilion with life-size bull sculpture facing the sanctum.\n\n**Structural Ingenuity:** Over 200,000 tons of rock removed using simple iron chisels and levers.\n\n**Conservation:** ASI maintains drainage systems and monitors rock stability to prevent water damage.\n\n**Visitor Experience:** Audio guides explain step‑by‑step excavation and iconography.\n\n**Photography Tips:** Side views capture the temple’s full cruciform plan against the rock face.\n\n**Best Time:** October to March for comfortable daytime exploration.\n\n**How_to_get_there:** 29 km from Aurangabad by road; regular buses and private taxis available.\n\n**Coordinates:** 20.0250 N, 75.1800 E.",
       "images": [
         {
-          "__typename": "Image",
-          "alt": "The Bronze Horseman is an equestrian statue of Peter the Great in Saint-Petersburg, Russia..August, 2014.=========================================.Медный Всадник. Памятник Петру Первому..Санкт-Петербург, Россия..Август, 2014",
-          "url": "https://lp-cms-production.imgix.net/2019-06/92917399.jpg"
+          "alt": "Kailas Temple, Ellora",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-470586360_super.jpg"
         }
       ],
       "meta": {
         "__typename": "PoiMetadata",
-        "isTopChoice": false,
+        "isTopChoice": true,
         "type": {
           "__typename": "PoiType",
           "displayName": "Attractions",
@@ -880,9 +696,557 @@
           "title": "See"
         }
       },
-      "places": [{ "__typename": "Place", "title": "St Petersburg" }],
-      "slug": "russia/st-petersburg/historic-heart/attractions/bronze-horseman/a/poi-sig/374307/1336038",
-      "title": "Bronze Horseman"
+      "places": [
+        {
+          "title": "Maharashtra"
+        }
+      ],
+      "slug": "india/maharashtra/ellora/attractions/kailasa-temple/a/poi-sig/1292851/356389",
+      "title": "Kailasa Temple"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "21.178089",
+        "lon": "70.59926"
+      },
+      "esid": "bf5aaf04-117c-4d42-b5ea-a5c6ccfe31c2",
+      "excerpt": "**Description:** Gir National Park is the only natural habitat of Asiatic lions, set in dry deciduous forest and rocky terrain.\n\n**History:** Designated a wildlife sanctuary in 1965 and a national park in 1975 to save the Asiatic lion from extinction.\n\n**Habitat:** Open woodlands of *Anogeissus*, *Terminalia*, and scrubs interspersed with grasslands.\n\n**Fauna:** Asiatic lions, leopards, hyenas, sambar, chinkara, nilgai, and over 300 bird species.\n\n**Safari Experience:** Jeep safaris through Gir East, West, and Sasan Gir sectors with experienced trackers.\n\n**Lion Watching:** Peak sighting months are April–June when water sources shrink and animals congregate.\n\n**Birdwatching:** Paradise flycatchers, crested serpent eagles, and Indian pitta frequent open clearings.\n\n**Community Engagement:** Gir Lion Conservation Project involves local pastoralist communities in protection efforts.\n\n**Accommodation:** Forest rest houses and eco‑lodges on the park periphery offer wildlife experiences.\n\n**Visitor Centre:** Interactive exhibits on lion ecology, genetics, and conservation challenges.\n\n**Rules:** No off‑road driving; maintain distance from wildlife; no loud noises or flash photography.\n\n**Best Time:** Mid‑winter (December–February) for cool mornings and clear sightings.\n\n**How_to_get_there:** 65 km from Junagadh; taxis and shared jeeps from Sasan Gir village.\n\n**Coordinates:** 21.1240 N, 70.8265 E.",
+      "images": [
+        {
+          "alt": "x-default",
+          "url": "https://lp-cms-production.imgix.net/2019-06/452d59000100a98929e9bd3007de4a1d-gir-national-park.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Gujarat & Diu"
+        }
+      ],
+      "slug": "india/gujarat/sasan-gir-wildlife-sanctuary/attractions/gir-national-park/a/poi-sig/1557800/356258",
+      "title": "Gir National Park"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "28.593226",
+        "lon": "77.250881"
+      },
+      "esid": "df913964-36a1-4869-b047-0165fa736d92",
+      "excerpt": "**Description:** Humayun’s Tomb in Delhi is a symmetrical Persian-style mausoleum that inspired the Taj Mahal.\n\n**History:** Built in 1570 by Empress Bega Begum for Emperor Humayun; designed by architect Mirak Mirza Ghiyas.\n\n**Architecture:** Double-domed structure of red sandstone and white marble, set within Charbagh gardens.\n\n**Central Chamber:** Houses the cenotaph of Humayun; underground crypt contains the actual grave.\n\n**Charbagh Layout:** Four-part garden with water channels and pathways symbolizing paradise.\n\n**Ornamentation:** Delicate stone lattice screens (jali), hexagonal pavilions, and tile inlays.\n\n**Conservation:** World Monument Fund and ASI restoration projects repaired structural cracks and restored plasterwork.\n\n**Photography Tips:** Sunrise light through the eastern entrance frames the tomb beautifully.\n\n**Visitor Experience:** Audio guides explain Mughal funerary architecture and garden symbolism.\n\n**Best Time:** October to March for cool weather and blossoming gardens.\n\n**How_to_get_there:** 6 km from Hazrat Nizamuddin Station; accessible via metro to JLN Stadium station.\n\n**Coordinates:** 28.5933 N, 77.2507 E.",
+      "images": [
+        {
+          "alt": "Humayun's Tomb complex. New Delhi, India",
+          "url": "https://lp-cms-production.imgix.net/2019-06/iStock_000059664056XXXLarge.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Delhi"
+        }
+      ],
+      "slug": "india/delhi/sunder-nagar-nizamuddin-lodi-colony/attractions/humayun-s-tomb/a/poi-sig/1146650/1342598",
+      "title": "Humayun’s Tomb"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "30.75858",
+        "lon": "76.803339"
+      },
+      "esid": "14f5708f-1f7a-4874-9cd6-13e0adfee16b",
+      "excerpt": "**Description:** The Capitol Complex in Chandigarh is Le Corbusier’s masterpiece of modernist civic architecture.\n\n**History:** Constructed between 1951–1963 as the administrative center for Punjab and Haryana.\n\n**Key Buildings:** Secretariat, Legislative Assembly, and High Court—massive concrete forms with brise‑soleil façades.\n\n**Open Hand Monument:** A 26 m high symbolic sculpture by Le Corbusier representing peace and reconciliation.\n\n**Architectural Style:** Brutalist concrete with pilotis, ramped walkways, and modular furniture designs.\n\n**UNESCO Status:** Designated World Heritage in 2016 as part of 'The Architectural Work of Le Corbusier.'\n\n**Guided Tours:** Offer insight into urban planning, sector layouts, and the use of raw materials.\n\n**Photography Tips:** Early morning enhances shadows on façades; interior shots require permission.\n\n**Best Time:** October to February when weather is cool and clear.\n\n**How_to_get_there:** 3 km from Chandigarh bus stand; local taxis and auto-rickshaws.\n\n**Coordinates:** 30.7333 N, 76.7794 E.",
+      "images": [
+        {
+          "alt": "(GERMANY OUT) Indien, Haryana, Chandigarh - Monument \"Open Hand\" entworfen von dem franzoesischen Architekten Le Corbusier     (Photo by Manoli Weber/ullstein bild via Getty Images)",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-549426937_master.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Chandigarh"
+        }
+      ],
+      "slug": "india/punjab-and-haryana/chandigarh/attractions/capitol-complex/a/poi-sig/1294319/356443",
+      "title": "Capitol Complex"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "25.311250848325",
+        "lon": "83.014658371347"
+      },
+      "esid": "49ed0f73-0705-49b8-b054-ba2ae1d63757",
+      "excerpt": "**Description:** Manikarnika Ghat in Varanasi is the principal cremation ghat, considered the most auspicious place to be cremated in Hindu belief.\n\n**History:** References in Puranic texts link it to Lord Shiva and the mythical ear ornament (Manikarnika).\n\n**Rituals:** Constant funeral pyres burn day and night; dom priests conduct the rites for families and pilgrims.\n\n**Architecture:** Simple stone steps leading to the Ganges, lined with platforms and wood-stacking areas.\n\n**Spiritual Significance:** Liberation (*moksha*) is believed assured for those cremated here.\n\n**Visitor Notes:** Non-Hindus may observe from a respectful distance; photography is discouraged.\n\n**Local Customs:** Families bathe in the river before cremation ceremonies to purify the soul.\n\n**Best Time:** Early morning to witness sunrise rituals; avoid peak summer heat.\n\n**How_to_get_there:** In the old city near Kashi Vishwanath Temple; reachable by rickshaw or on foot.\n\n**Coordinates:** 25.3100 N, 83.0100 E.",
+      "images": [
+        {
+          "alt": "Boats on River Ganges",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-157114699_full.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Varanasi"
+        }
+      ],
+      "slug": "india/uttar-pradesh/varanasi/attractions/manikarnika-ghat/a/poi-sig/1321849/356519",
+      "title": "Manikarnika Ghat"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "30.111010966743",
+        "lon": "78.313023737069"
+      },
+      "esid": "06d86ce5-7f32-49e5-9e7e-b0cb17fe7c6f",
+      "excerpt": "**Description:** The Maharishi Mahesh Yogi Ashram on the banks of the Ganges is famed as the Beatles’ retreat in 1968.\n\n**History:** Established in the 1960s by Maharishi Mahesh Yogi; abandoned after a tragic fire in 1997.\n\n**Layout:** Forested campus with meditation cells, lecture halls, and Beatles’ living quarters.\n\n**Cultural Legacy:** Site where the Beatles learned Transcendental Meditation and composed songs for the White Album.\n\n**Present Day:** Ruins accessible via forest trails; graffiti art by visiting pilgrims adorns walls.\n\n**Guided Walks:** Local guides recount Beatles anecdotes and ashram history.\n\n**Photography Tips:** Early light through banyan trees highlights decaying architecture.\n\n**Best Time:** October to March for cooler temperatures and greenery.\n\n**How_to_get_there:** 5 km north of Rishikesh town; accessible by foot or motorbike along the Ganges.\n\n**Coordinates:** 30.1328 N, 78.3269 E.",
+      "images": [
+        {
+          "alt": "Beatles Ashram (Chaurasi Kutia) in Rishikesh, Northern India. Maharishi Mahesh Yogi Ashram. Meditation rooms. Iconic place where the Beatles stayed and learnt meditation; Shutterstock ID 2244431869; GL: 65050; netsuite: 65050; full: Poi; name: Lenczycki\n2244431869\nabandoned, architecture, ashram, beatles, beatles ashram, beatles music, cells, culture, environment, exterior, forest, ganges, india, maharishi, meditation, nature, old, outdoor, rishikesh, sacred, stone, tourism, travel, tree, wall, yoga, yoga center",
+          "url": "https://lp-cms-production.imgix.net/2024-03/shutterstock2244431869-RFC.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Rishikesh"
+        }
+      ],
+      "slug": "india/uttarakhand-uttaranchal/rishikesh/attractions/maharishi-mahesh-yogi-ashram/a/poi-sig/478174/356532",
+      "title": "Maharishi Mahesh Yogi Ashram"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "24.576261",
+        "lon": "73.683296"
+      },
+      "esid": "ae5da8c2-62f8-4c54-af34-ab05bc44bd43",
+      "excerpt": "**Description:** The City Palace in Udaipur is Rajasthan’s largest palace complex, with balconies, towers, and cupolas rising over Lake Pichola.\n\n**History:** Construction began in 1559 under Maharana Udai Singh II and continued for 400 years by his successors.\n\n**Architecture:** A fusion of Rajput and Mughal styles, featuring marble façades, mirror work, and stained glass.\n\n**Key Sections:** Fateh Prakash Wing, Amar Vilas, and Badi Mahal each showcase royal apartments and courtyards.\n\n**Gallery of Textiles:** Displays royal costumes, tapestries, and flags dating back centuries.\n\n**Boat Approach:** Arrive via private boat from Jag Mandir for a grand lakeside entrance.\n\n**Conservation:** Managed by the Mewar Foundation with ongoing restoration of frescoes and woodwork.\n\n**Visitor Tips:** Best viewed at sunset from Lake Palace or Jag Mandir.\n\n**How_to_get_there:** 2 km from Udaipur City Railway Station; auto‑rickshaws and taxis available.\n\n**Coordinates:** 24.5767 N, 73.6803 E.",
+      "images": [
+        {
+          "alt": "City Palace viewed from Lake Pichola, Udaipur, Rajasthan, India",
+          "url": "https://lp-cms-production.imgix.net/2019-06/f20d2c9b89371c92a98f3987c583b5f1-city-palace.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Udaipur"
+        }
+      ],
+      "slug": "india/rajasthan/udaipur/attractions/city-palace/a/poi-sig/449487/356462",
+      "title": "City Palace"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "22.544844",
+        "lon": "88.342642"
+      },
+      "esid": "40548d4f-11f2-4735-a427-c3b66cfb5dc7",
+      "excerpt": "**Description:** The Victoria Memorial in Kolkata is a grand white-marble monument blending British and Mughal architectural motifs.\n\n**History:** Built between 1906–1921 in memory of Queen Victoria; designed by Sir William Emerson.\n\n**Architecture:** Central dome flanked by four subsidiary domes, Ionic columns, and porticos with British emblem sculptures.\n\n**Museum Collections:** Galleries of paintings, manuscripts, armory, and period furniture illustrating colonial Bengal.\n\n**Surrounding Gardens:** 64-acre landscaped lawns with rose gardens, fountains, and pathways.\n\n**Light & Sound Show:** Evening presentations recount Kolkata’s history with narration and lighting effects.\n\n**Photography Tips:** Early morning light emphasizes marble detailing; fountain reflections add symmetry.\n\n**Best Time:** October to February for comfortable weather and blooming gardens.\n\n**How_to_get_there:** 5 km from Esplanade Metro Station; rickshaws and taxis readily available.\n\n**Coordinates:** 22.5448 N, 88.3426 E.",
+      "images": [
+        {
+          "alt": "Victoria Memorial, Kolkata",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-143559567_high.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Kolkata (Calcutta)"
+        }
+      ],
+      "slug": "india/kolkata-calcutta/attractions/victoria-memorial/a/poi-sig/410850/356356",
+      "title": "Victoria Memorial"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "13.070491",
+        "lon": "80.25738"
+      },
+      "esid": "8ec67d91-06ce-4446-ac9c-bcbea7dba961",
+      "excerpt": "**Description:** The Government Museum in Chennai is one of India’s oldest museums, housing extensive collections of art, archaeology, and natural history.\n\n**History:** Established in 1851 as part of the Madras Literary Society; moved to the Pantheon complex in 1854.\n\n**Galleries:** Include the Bronze Gallery (Chola bronzes), Numismatics, Epigraphy, and Geological specimens.\n\n**Highlights:** 11th-century Nataraja sculpture, Roman-era coins, and prehistoric megalithic relics.\n\n**Architecture:** British colonial Pantheon building with Doric columns and high vaulted ceilings.\n\n**Educational Programmes:** Workshops, lectures, and guided tours for students and researchers.\n\n**Conservation Lab:** On-site facilities for restoration of paintings, sculptures, and manuscripts.\n\n**Photography Tips:** Interior lighting accentuates bronze lustre; tripod use requires permission.\n\n**Best Time:** November to February when Chennai’s climate is pleasant.\n\n**How_to_get_there:** 3 km from Chennai Central Station; accessible via bus or auto‑rickshaw.\n\n**Coordinates:** 13.0827 N, 80.2740 E.",
+      "images": [
+        {
+          "alt": "Government Museum exterior, Chennai. Tamil Nadu, India (2004)",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-128895295_full.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Chennai (Madras)"
+        }
+      ],
+      "slug": "india/tamil-nadu/chennai-madras/attractions/government-museum/a/poi-sig/460357/356488",
+      "title": "Government Museum"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "24.852105",
+        "lon": "79.921696"
+      },
+      "esid": "458b17c5-1e31-49e0-8af9-90b5eee544f7",
+      "excerpt": "**Description:** The Lakshmana Temple at Khajuraho is a masterpiece of Chandela-era temple architecture, dedicated to Lord Vishnu.\n\n**History:** Constructed circa AD 954 under King Dhanga, it exemplifies the apogee of Khajuraho’s temple-building tradition.\n\n**Architecture:** Built on a high plinth, with a garbhagriha (sanctum), antarala (vestibule), and an intricately carved mandapa (hall).\n\n**Sculptural Program:** Outer walls adorned with over 600 erotic and devotional sculptures depicting gods, goddesses, musicians, and amorous couples.\n\n**Shikhara:** A soaring, clustered spire above the sanctum, symbolizing Mount Meru in Hindu cosmology.\n\n**Material:** Carved from pale sandstone, with fine detail preserved despite centuries of weathering.\n\n**UNESCO Status:** Designated a World Heritage Site in 1986 as part of the Khajuraho Group of Monuments.\n\n**Festivals:** The annual Khajuraho Dance Festival showcases classical Indian dance against the temple’s illuminated backdrop.\n\n**Conservation:** ASI undertakes periodic cleaning, structural monitoring, and protective coatings.\n\n**Photography Tips:** Best visited at sunrise when soft light highlights relief depth without harsh shadows.\n\n**Visitor Facilities:** On-site interpretation panels, restroom facilities, and souvenir stalls.\n\n**Admission:** Ticket covers all western group temples; combined passes available for eastern group.\n\n**Opening Hours:** 6:00 AM–6:00 PM daily; light-and-sound show evenings from October to March.\n\n**How_to_get_there:** 20 km from Khajuraho airport; regular buses and taxis ply from the town center.\n\n**Coordinates:** 24.8408 N, 79.9188 E.",
+      "images": [
+        {
+          "alt": "LAKSHMANA TEMPLE: Facade.Western Group, Khajuraho, Madhya Pradesh, India\n1368163449\nbuilding, hindus, lakshmana, locations, madhya, outdoor, buildings, color, colour, daytime, exterior, exteriors, group, heritage, hindu, historic, historical, indian, outside, pradesh, site, temple, temples, travels, unesco, western, world",
+          "url": "https://lp-cms-production.imgix.net/2023-03/GettyImages-1368163449.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Khajuraho"
+        }
+      ],
+      "slug": "india/madhya-pradesh-and-chhattisgarh/khajuraho/attractions/lakshmana-temple/a/poi-sig/1321944/356376",
+      "title": "Lakshmana Temple"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "28.591983",
+        "lon": "77.242287"
+      },
+      "esid": "5c86f5f2-f439-4ab5-875b-7c7b3e245504",
+      "excerpt": "**Description:** Hazrat Nizam-ud-din Dargah is the marble mausoleum of the 14th-century Sufi saint Nizamuddin Auliya, a center of Qawwali music and devotion.\n\n**History:** Saint Nizamuddin (1238–1325) founded the Chishti order in Delhi; the dargah complex grew around his burial site.\n\n**Architecture:** White marble shrine with a silver-plated door, marble courtyard, and adjacent Jama’at Khana mosque.\n\n**Spiritual Significance:** Pilgrims tie threads to the ‘chadar’ canopy and offer flowers; qawwals sing devotional songs at dusk.\n\n**Adjacent Tomb:** The tomb of poet Amir Khusro lies beside the saint’s grave, attracting lovers of classical music.\n\n**Festivals:** Urs (death anniversary) in Rabi’ al-awwal features night-long recitations, qawwali, and community meals.\n\n**Local Customs:** Offerings of rose petals, chadars, and sandalwood paste; lighting of brass lamps.\n\n**Photography Tips:** Capture the golden glow of evening lamps and congregation in the marble courtyard.\n\n**Visitor Etiquette:** Modest dress, head covering required; remove shoes before entering inner precinct.\n\n**Accessibility:** Gentle ramps from the main gate; volunteers guide elderly and differently-abled visitors.\n\n**Admission:** No fee; donations accepted for shrine upkeep and langar (community kitchen).\n\n**Opening Hours:** 5:00 AM–9:00 PM daily; extended on Urs and other Sufi festivals.\n\n**How_to_get_there:** 5 km southeast of New Delhi Railway Station; reachable by auto‑rickshaw or Metro to Jor Bagh.\n\n**Coordinates:** 28.5869 N, 77.2410 E.",
+      "images": [
+        {
+          "alt": "Nizamuddin Aulia Dargah Tomb",
+          "url": "https://lp-cms-production.imgix.net/2019-06/1c19aba1dd6c7b9daca4fd15c2c0e7c8-hazrat-nizam-ud-din-dargah.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Delhi"
+        }
+      ],
+      "slug": "india/delhi/sunder-nagar-nizamuddin-lodi-colony/attractions/hazrat-nizam-ud-din-dargah/a/poi-sig/1146674/1342598",
+      "title": "Hazrat Nizam-ud-din Dargah"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "28.615098",
+        "lon": "77.277918"
+      },
+      "esid": "814faac0-4679-4f32-ad73-680b9451ab88",
+      "excerpt": "**Description:** Akshardham Temple in Delhi is a modern Hindu temple complex showcasing traditional architecture and spiritual exhibitions.\n\n**History:** Inaugurated in November 2005 as the world’s largest comprehensive Hindu temple by the BAPS Swaminarayan Sanstha.\n\n**Architecture:** Constructed entirely of pink sandstone and white marble without steel or concrete, featuring carved pillars, domes, and friezes.\n\n**Central Mandir:** A four-tiered sanctum housing the gilded murti (idol) of Swaminarayan, with 234 ornately carved pillars.\n\n**Exhibitions:** Cultural boat ride (‘Sahajanand’), multimedia film (‘Neelkanth’) and the thematic water show (‘Yagnapurush Kund’) narrate Vedic history and values.\n\n**Gardens:** The sprawling 100 acre campus includes the Bharat Upavan garden with bronze statues of India’s heroes.\n\n**Water Feature:** Yagnapurush Kund is the world’s largest stepwell and decking with cascading fountains.\n\n**Cultural Programs:** Daily dance, music, and spiritual discourses in the evening cultural hall.\n\n**Conservation:** Marble cleaning and pest-free landscaping by dedicated temple authorities.\n\n**Photography:** Exterior photography encouraged; interior sanctum restricted to devotees.\n\n**Visitor Etiquette:** Remove footwear, dress modestly, and maintain silence inside the mandir.\n\n**Admission:** Free entry; tickets required for exhibitions and water show (book online to avoid queues).\n\n**Opening Hours:** 9:30 AM–6:30 PM; exhibitions close by 6:00 PM; closed Mondays for cleaning.\n\n**How_to_get_there:** 9 km from New Delhi Railway Station; Metro to Akshardham Station followed by a short walk.\n\n**Coordinates:** 28.6127 N, 77.2773 E.",
+      "images": [
+        {
+          "alt": "Akshardham temple",
+          "url": "https://lp-cms-production.imgix.net/2019-06/efdd55bc4065d27d86ed6cae6becfa9d-akshardham-temple.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Delhi"
+        }
+      ],
+      "slug": "india/delhi/sunder-nagar-nizamuddin-lodi-colony/attractions/akshardham-temple/a/poi-sig/1146843/1342598",
+      "title": "Akshardham Temple"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "22.560426",
+        "lon": "88.288688"
+      },
+      "esid": "2e2c9ca1-403c-471c-902f-a036d115fcab",
+      "excerpt": "**Description:** Botanical Gardens (Acharya Jagadish Chandra Bose Indian Botanic Garden) in Kolkata is renowned for its 109 ha of diverse tropical flora and the iconic Great Banyan tree.\n\n**History:** Established in 1787 under British East India Company; renamed for scientist J.C. Bose in 2009.\n\n**Great Banyan:** Over 250 years old, covering 1.6 ha with a single trunk that appears as a vast network of roots.\n\n**Collections:** Houses over 12,000 specimens from India and abroad including orchids, palms, and cacti.\n\n**Herbarium & Library:** Archives of over 300,000 dried plant specimens and a research library on botany.\n\n**Research & Conservation:** Centres for plant taxonomy, genetics, and ex‑situ conservation of endangered species.\n\n**Walking Trails:** Paved paths wind through thematic sections like medicinal plants, bamboo grove, and aquatic gardens.\n\n**Visitor Facilities:** Interpretation centre, tea stall, children’s garden, and wheelchair-friendly routes.\n\n**Photography Tips:** Early morning light on the Great Banyan’s aerial roots creates stunning patterns.\n\n**Best Time:** August–February when flowering season is at its peak and humidity is lower.\n\n**Admission:** Nominal entry fee; free for students below 14 and senior citizens.\n\n**Opening Hours:** 6:00 AM–6:00 PM daily; closed on national holidays.\n\n**How_to_get_there:** 12 km north of Kolkata; regular buses and taxis to Shibpur; 10 min walk from ferry ghat.\n\n**Coordinates:** 22.5659 N, 88.3431 E.",
+      "images": [
+        {
+          "alt": "Botanical Garden",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-160669893_medium.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Kolkata (Calcutta)"
+        }
+      ],
+      "slug": "india/kolkata-calcutta/attractions/botanical-gardens/a/poi-sig/410826/356356",
+      "title": "Botanical Gardens"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "29.956217",
+        "lon": "78.171351"
+      },
+      "esid": "ad1a5b52-83fb-428c-844e-081d499e4857",
+      "excerpt": "**Description:** Har-ki-Pairi Ghat in Haridwar is a sacred riverside step well where legend says Lord Vishnu left his footprint.\n\n**History:** Established by King Vikramaditya (1st century BCE) and rebuilt by Maharaja Bhagirath in the 8th century CE.\n\n**Spiritual Rituals:** Daily ‘Ganga Aarti’ at sunset features fire offerings, chants, and synchronized lamp-waving.\n\n**Architecture:** Broad sandstone steps descend to the Ganges, lined with shrines, temples, and oil lamp stalls.\n\n**Pilgrim Customs:** Devotees bathe in the holy river at dawn and sunset to purify body and soul.\n\n**Festivals:** Kumbh Mela and Kanwar Yatra draw millions, with massive temporary tent cities along the ghats.\n\n**Local Bazaar:** Streets behind the ghat bustle with shops selling religious items, sweets, and handicrafts.\n\n**Photography Tips:** Capture the golden glow of thousands of diyas (lamps) reflecting on the water during Aarti.\n\n**Visitor Etiquette:** Modest attire, avoid spilling lamps into the waterway, and maintain respectful distance from rituals.\n\n**Accessibility:** Some ramps but crowds can make navigation challenging; best viewed from upper steps.\n\n**Admission:** Free entry; donations accepted for aarti and ghat maintenance.\n\n**Opening Hours:** 4:00 AM–10:00 PM; peak aarti at 6:30 PM.\n\n**How_to_get_there:** 2 km from Haridwar Railway Station; cycle-rickshaws and motorized autos plentiful.\n\n**Coordinates:** 29.9457 N, 78.1633 E.",
+      "images": [
+        {
+          "alt": "(GERMANY OUT) India Uttaranchal - Haridwar: prayer at Har-ki-Pauri Ghat, Ganges - 2010 (Photo by Bhattacharya/ullstein bild via Getty Images)",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-545731273_master.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Haridwar"
+        }
+      ],
+      "slug": "india/uttarakhand-uttaranchal/haridwar/attractions/har-ki-pairi-ghat/a/poi-sig/478142/356525",
+      "title": "Har-ki-Pairi Ghat"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "30.752781",
+        "lon": "76.805366"
+      },
+      "esid": "993532b9-ac2a-4790-96c6-c66fa0fdf9ac",
+      "excerpt": "**Description:** Nek Chand Rock Garden in Chandigarh is a surreal sculpture park built entirely from urban and industrial waste.\n\n**History:** Conceived clandestinely by government engineer Nek Chand in 1957; opened to public in 1976.\n\n**Sculptures:** Over 2,000 figures of animals, dancers, and humans made from glass bangles, tiles, ceramic, and metal scraps.\n\n**Garden Layout:** Seven themed terraces connected by winding pathways, water pools, and arched gateways.\n\n**Artistic Vision:** Celebrates recycling and folk art traditions, blending creativity with environmental consciousness.\n\n**Workshops:** Regular community art sessions teach mosaic techniques to visitors and local youth.\n\n**Conservation:** Chandigarh administration maintains the garden; annual cleaning and reinforcement of structures.\n\n**Photography Tips:** Close‑ups of mosaic details; wide shots of terraced levels reveal the garden’s labyrinthine design.\n\n**Visitor Facilities:** Visitor centre, cafe, restrooms, and souvenir shop selling miniature replicas.\n\n**Admission:** Affordable entry fee; free for children under 5 and senior citizens.\n\n**Opening Hours:** 9:00 AM–7:00 PM daily; closed on Sundays for maintenance.\n\n**How_to_get_there:** 5 km from Sector 17 Plaza; local buses and cycle‑rickshaws available.\n\n**Coordinates:** 30.7360 N, 76.7719 E.",
+      "images": [
+        {
+          "alt": "[UNVERIFIED CONTENT] One of the highlights of Chandigarh is the Rock Garden designed by local artist Nek Chand.",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-181001607_master.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Chandigarh"
+        }
+      ],
+      "slug": "india/punjab-and-haryana/chandigarh/attractions/nek-chand-rock-garden/a/poi-sig/1150662/356443",
+      "title": "Nek Chand Rock Garden"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "26.923811",
+        "lon": "75.827047"
+      },
+      "esid": "47fa600b-874e-4f79-af81-2d67f214f178",
+      "excerpt": "**Description:** Hawa Mahal in Jaipur is a pink sandstone ‘Palace of Winds,’ designed to allow royal women to observe street festivals unseen.\n\n**History:** Built in 1799 by Maharaja Sawai Pratap Singh, designed by architect Lal Chand Ustad.\n\n**Facade:** Five-story pyramidal structure with 953 small windows (jharokhas) adorned with latticework.\n\n**Purpose:** Venturi effect of the lattice allowed cool air to circulate, making the palace comfortable in summer heat.\n\n**Interior:** Narrow corridors connect the jharokhas; the palace has minimal rooms, focusing on exterior aesthetics.\n\n**Architectural Style:** Rajput fusion of Hindu Rajput and Islamic Mughal elements, characterized by honeycomb patterns.\n\n**Cultural Significance:** Iconic symbol of Jaipur, featured in films and literature as emblematic of the Pink City.\n\n**Photography Tips:** Best viewed from the street opposite in early morning light to avoid crowds.\n\n**Visitor Amenities:** Small museum on the ground floor displays historical artifacts and miniature paintings.\n\n**Admission:** Separate fee; combined tickets available with Jantar Mantar and City Palace.\n\n**Opening Hours:** 9:00 AM–4:30 PM daily; closed on national holidays.\n\n**How_to_get_there:** Located on Hawa Mahal Road in the old city; accessible by cycle-rickshaw or taxi.\n\n**Coordinates:** 26.9239 N, 75.8267 E.",
+      "images": [
+        {
+          "alt": "Hawa Mahal palace, Jaipur",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-469786746_super.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Jaipur"
+        }
+      ],
+      "slug": "india/rajasthan/jaipur/attractions/hawa-mahal/a/poi-sig/449393/356451",
+      "title": "Hawa Mahal"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "31.103179",
+        "lon": "77.141318"
+      },
+      "esid": "8e64ba7f-d668-4344-b45f-76f8a324809e",
+      "excerpt": "**Description:** Viceregal Lodge in Shimla is a grand Scots baronial-style mansion that served as the summer residence of British viceroys.\n\n**History:** Completed in 1888 under architect Henry Irwin; hosted imperial conferences and high-level colonial gatherings.\n\n**Architecture:** Red-brick structure with turrets, steep roofs, Gothic arches, and expansive verandahs.\n\n**Interiors:** Lavishly furnished rooms with oak paneling, stained-glass windows, and antique Victorian furniture.\n\n**Gardens:** Terraced lawns and flowerbeds overlook the Himalayan foothills, once venues for high tea and outdoor balls.\n\n**Historic Events:** Site of the 1945 Simla Conference and discussions leading to India’s independence.\n\n**Present Day:** Houses the Indian Institute of Advanced Study, with public tours of select heritage rooms.\n\n**Photography Tips:** Wide-angle shots capture the contrasting red brick against pine-clad slopes.\n\n**Guided Tours:** Offer insights into colonial history, architectural details, and correspondence between viceroys.\n\n**Admission:** Modest entry fee; advanced booking recommended during tourist season.\n\n**Opening Hours:** 10:00 AM–4:00 PM; closed Mondays and government holidays.\n\n**How_to_get_there:** 2 km from Shimla Mall Road; accessible by taxi or on foot via the Ridge.\n\n**Coordinates:** 31.1048 N, 77.1734 E.",
+      "images": [
+        {
+          "alt": "Viceregal Lodge is the official residence of a Viceroy, Shimla, Himachal Pradesh, India . (Photo by: IndiaPictures/UIG via Getty Images)",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-170965234_master.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Shimla"
+        }
+      ],
+      "slug": "india/himachal-pradesh/shimla/attractions/viceregal-lodge/a/poi-sig/449317/356284",
+      "title": "Viceregal Lodge"
+    },
+    {
+      "__typename": "Poi",
+      "coordinates": {
+        "lat": "26.860266",
+        "lon": "80.927503"
+      },
+      "esid": "9ac105d4-f3cc-41f0-ac67-6c18d61f3dba",
+      "excerpt": "**Description:** The Residency in Lucknow is a complex of British colonial-era buildings and gardens, witness to the 1857 Siege of Lucknow.\n\n**History:** Constructed between 1800–1804 for the British Resident; survived the 1857 mutiny and served as refuge for Europeans.\n\n**Architecture:** Consists of ruins and restored sections in Palladian style, with Corinthian columns and high-ceilinged verandahs.\n\n**Siege of 1857:** The sprawling compound witnessed a 90-day siege; bullet-pockmarked walls still bear scars of the conflict.\n\n**Museum:** The Residency Interpretation Centre exhibits weapons, diaries, and personal effects from the siege survivors.\n\n**Gardens:** Laid out in European style with lawns, flowerbeds, and a central pathway leading to the main building.\n\n**Memorials:** Mausoleum of Sir Henry Lawrence and cenotaphs of British officers stand within the grounds.\n\n**Conservation:** ASI-led restoration stabilized walls, conserved fresco fragments, and installed interpretive signage.\n\n**Photography Tips:** Late afternoon light casts long shadows through the ruined arches, evoking historic poignancy.\n\n**Visitor Facilities:** Audio tours, restroom facilities, and a small cafe on-site.\n\n**Admission:** Nominal fee; free for students and children under 12.\n\n**Opening Hours:** 9:00 AM–5:00 PM daily; closed on national holidays.\n\n**How_to_get_there:** 3 km from Lucknow Charbagh Station; accessible by auto-rickshaw or local bus.\n\n**Coordinates:** 26.8467 N, 80.9333 E.",
+      "images": [
+        {
+          "alt": "Archways at Residency, Lucknow",
+          "url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-462837087_medium.jpg"
+        }
+      ],
+      "meta": {
+        "__typename": "PoiMetadata",
+        "isTopChoice": true,
+        "type": {
+          "__typename": "PoiType",
+          "displayName": "Attractions",
+          "slug": "attractions",
+          "title": "See"
+        }
+      },
+      "places": [
+        {
+          "title": "Lucknow"
+        }
+      ],
+      "slug": "india/uttar-pradesh/lucknow/attractions/residency/a/poi-sig/477690/356515",
+      "title": "Residency"
     }
   ]
 }
